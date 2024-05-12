@@ -140,7 +140,7 @@
 
 ### 中国VPN推荐/排行（一）：[ExpressVPN - 翻墙稳定，速度最快，30天免费](https://www.yyjlymb.xyz/?a_fid=TopVpnGuides&offer=3monthsfree)
 
-![ExpressVPN Banner：中国VPN推荐/排行](https://github.com/chinavpns/chinavpns.github.io/blob/main/image/ExpressVPN%20Banner.jpg)
+![ExpressVPN Banner：中国VPN推荐/排行](https://chinavpns.github.io/image/ExpressVPN%20Banner.jpg)
 
 在2024年的中国VPN推荐榜单中，ExpressVPN稳居首位，是许多中国网民首选的翻墙软件。ExpressVPN之所以受到广泛推荐，主要归功于其在中国的出色表现和稳定服务。以下详细介绍为什么ExpressVPN在众多VPN服务中脱颖而出，成为最佳的科学上网工具。
 
@@ -156,7 +156,7 @@ ExpressVPN的客户端覆盖了所有主流平台，包括Windows、Mac、Androi
 
 价格方面，ExpressVPN可能不是最便宜的选项，但考虑到其提供的稳定连接、广泛的服务器选择、顶尖的隐私保护措施以及出色的客户服务，其价格是合理且具有竞争力的。特别是考虑到其30天无理由退款保证，用户可以在购买后充分测试其服务质量，确保满意后再继续使用，这极大降低了用户的试用风险。
 
-![ExpressVPN价格：中国VPN推荐/排行](https://github.com/chinavpns/chinavpns.github.io/blob/main/image/ExpressVPN%20%E4%BB%B7%E6%A0%BC.jpg)
+![ExpressVPN价格：中国VPN推荐/排行](https://chinavpns.github.io/image/ExpressVPN%20%E4%BB%B7%E6%A0%BC.jpg)
 
 总结来说，ExpressVPN以其卓越的技术支持、稳定的性能、强大的隐私保护措施以及客户友好的政策，在众多VPN服务中脱颖而出，成为中国用户首选的翻墙VPN。其全方位的服务体验，让用户在使用过程中几乎无需担忧技术和安全问题，可以说是目前市面上最好用的中国VPN之一。
 
