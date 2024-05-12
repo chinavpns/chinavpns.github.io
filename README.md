@@ -6,7 +6,7 @@
 
 ## 什么叫科学上网？
 
-![科学上网指南：2024年最好用的中国VPN推荐/排行](https://github.com/chinavpns/chinavpns.github.io/blob/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.jpg)
+![科学上网指南：2024年最好用的中国VPN推荐/排行](https://chinavpns.github.io/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.jpg)
 
 在讨论科学上网之前，我们必须首先理解它的背景和涵义。科学上网，通常与翻墙同义，指的是通过技术手段绕过中国大陆的互联网限制，这些限制统称为防火长城（Great Firewall，简称GFW）。防火长城是一种网络审查和监控机制，它封锁了如Google、Wikipedia、YouTube、Facebook等多数主流国外网站，使得在中国大陆直接访问这些网站时，浏览器会显示无法访问的信息，俗称网站被“墙”。
 
