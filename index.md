@@ -1,7 +1,7 @@
 
 # 科学上网指南：2024年最好用的中国VPN推荐/排行
 
-最近更新于：2024年5月12日
+最近更新于：2024年5月13日
 
 文章出处：[https://github.com/chinavpns/chinavpns.github.io](https://github.com/chinavpns/chinavpns.github.io)
 
