@@ -166,7 +166,7 @@ ExpressVPN的客户端覆盖了所有主流平台，包括Windows、Mac、Androi
 
 ### 中国VPN推荐/排行（二）：[PureVPN - 老牌VPN，价格便宜，2.11美金/月](https://bit.ly/pe-vpn)
 
-![PureVPN Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/purevpn%20banner-2.jpg)
+![PureVPN Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/purevpn%20banner%202.jpg)
 
 在2024年的中国VPN推荐/排行中，PureVPN表现出色，成为许多用户的优选。这家国际知名的VPN服务商不仅提供全面的设备支持，包括电脑、手机和多种智能设备，而且以其相对经济的价格和稳定的性能在用户中建立了良好的声誉。以下是详细介绍PureVPN作为科学上网工具的几个关键优势。
 
@@ -190,6 +190,8 @@ PureVPN不仅在翻墙效率上表现出色，还在隐私保护方面做得很�
 
 ### 中国VPN推荐/排行（三）：[Surfshark - 不限制设备数，性价比高](https://bit.ly/surf-vpn)
 
+![Surfshark Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/surshark%20banner%202.jpg)
+
 在2024年的中国VPN推荐榜单中，Surfshark凭借其卓越的性能和用户友好的策略，稳居前列。作为一个相对较新的市场玩家，Surfshark迅速成长，成为具有国际影响力的VPN提供商，特别是在为中国用户绕过GFW提供有效服务方面表现出色。以下是对Surfshark作为翻墙VPN的全面评述。
 
 Surfshark的强大之处在于其快速的VPN连接速度和极高的稳定性，这得益于其遍布全球的多样化服务器网络，以及支持多种VPN协议，确保用户即使在中国这样的高限制环境下也能保持良好的连接性。其服务器不仅分布于美国、台湾、香港、韩国、日本等地，而且这些节点特别优化，适合从中国出发的数据流。
@@ -211,6 +213,8 @@ Surfshark不仅适用于科学上网，其解锁流媒体的能力也不容小�
 ****
 
 ### 中国VPN推荐/排行（四）：[NordVPN - 安全性高，功能强大](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902)
+
+![NordVPN Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/nordvpn%20banner.jpg)
 
 在2024年的中国VPN推荐/排行中，NordVPN以其卓越的服务和强大的功能，稳居高位。作为国际知名的VPN服务提供商，NordVPN不仅在全球范围内提供优质服务，而且针对中国市场的特殊需求，提供了特别优化的解决方案，确保用户即使在GFW的严格监控下也能享受到稳定快速的网络访问体验。
 
