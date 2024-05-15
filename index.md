@@ -139,7 +139,7 @@
 
 总的来说，ExpressVPN凭借其卓越的翻墙能力、强大的安全功能、庞大的服务器网络、良好的兼容性和优质的客户服务，成为2024年国内最好用的翻墙VPN。无论是跨境工作、娱乐学习还是保护隐私，ExpressVPN都是用户的不二选择。
 
-<p align="center"><a href="https://bit.ly/ep-vpn" rel="nofollow">立即获取ExpressVPN，30天免费</a></p>
+**<p align="center"><a href="https://bit.ly/ep-vpn" rel="nofollow">立即获取ExpressVPN，30天免费</a></p>**
 
 ****
 
