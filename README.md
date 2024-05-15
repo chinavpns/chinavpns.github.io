@@ -140,8 +140,6 @@
 
 ### 中国VPN推荐/排行（一）：<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN - 翻墙稳定，速度最快，30天免费</a>
 
-[ExpressVPN - 翻墙稳定，速度最快，30天免费](https://bit.ly/ep-vpn){:rel="nofollow"}
-
 ![ExpressVPN Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/ExpressVPN%20Banner.jpg)
 
 在2024年的中国VPN推荐榜单中，ExpressVPN稳居首位，是许多中国网民首选的翻墙软件。ExpressVPN之所以受到广泛推荐，主要归功于其在中国的出色表现和稳定服务。以下详细介绍为什么ExpressVPN在众多VPN服务中脱颖而出，成为最佳的科学上网工具。
@@ -166,7 +164,7 @@ ExpressVPN的客户端覆盖了所有主流平台，包括Windows、Mac、Androi
 
 ****
 
-### 中国VPN推荐/排行（二）：[PureVPN - 老牌VPN，价格便宜，2.11美金/月](https://bit.ly/pe-vpn){:rel="nofollow"}
+### 中国VPN推荐/排行（二）：<a href="https://bit.ly/pe-vpn" rel="nofollow">PureVPN - 老牌VPN，价格便宜，2.11美金/月</a>
 
 ![PureVPN Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/purevpn%20banner%202.jpg)
 
@@ -190,7 +188,7 @@ PureVPN不仅在翻墙效率上表现出色，还在隐私保护方面做得很�
 
 ****
 
-### 中国VPN推荐/排行（三）：[Surfshark - 不限制设备数，性价比高](https://bit.ly/surf-vpn){:rel="nofollow"}
+### 中国VPN推荐/排行（三）：<a href="https://bit.ly/surf-vpn" rel="nofollow">Surfshark - 不限制设备数，性价比高</a>
 
 ![Surfshark Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/surshark%20banner%202.jpg)
 
@@ -214,7 +212,7 @@ Surfshark不仅适用于科学上网，其解锁流媒体的能力也不容小�
 
 ****
 
-### 中国VPN推荐/排行（四）：[NordVPN - 安全性高，功能强大](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902){:rel="nofollow"}
+### 中国VPN推荐/排行（四）：<a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902" rel="nofollow">NordVPN - 安全性高，功能强大</a>
 
 ![NordVPN Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/nordvpn%20banner.jpg)
 
