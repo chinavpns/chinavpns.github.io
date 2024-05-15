@@ -119,7 +119,7 @@
 
 ### 翻墙VPN排行（一）：[ExpressVPN - 翻墙稳定，安全好用，速度最快，30天免费](https://bit.ly/ep-vpn){:rel="nofollow"}
 
-![ExpressVPN Banner：国内最好用的翻墙VPN排行](https://chinavpns.github.io/image/expressvpn%20banner-2.jpg)
+![ExpressVPN Banner：国内最好用的翻墙VPN排行](https://chinavpns.github.io/image/expressvpn%20banner-3.jpg)
 
 在2024年，ExpressVPN凭借其卓越的性能和强大的功能，稳居翻墙VPN排行榜的第一名。这款翻墙软件在多个方面表现出色，成为用户翻墙的首选。
 
