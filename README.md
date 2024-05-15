@@ -138,7 +138,9 @@
 
 在选择翻墙软件时，需要考虑几个关键因素以确保科学上网的速度和稳定性。首先，一个优质的翻墙VPN应具备接近中国大陆的服务器节点，如香港、日本、美国等，这些地点通常能提供更快的连接速度和更低的延迟，从而保证顺畅的上网体验。此外，退款政策也是评估VPN商家信誉的一个重要指标，它保证了即使VPN服务未能满足需求，用户也能够获得经济上的保障，避免经济损失。我们推荐的VPN服务，在中国使用时，无论是在连接速度、成本效益还是翻墙的稳定性方面，都显示出显著优势。它们能够有效解锁包括YouTube、Facebook、Twitter、Google、Skype、Telegram在内的多种海外网络服务，帮助用户维护与世界的联系，享受无界浏览的便利。
 
-### 中国VPN推荐/排行（一）：[ExpressVPN - 翻墙稳定，速度最快，30天免费](https://bit.ly/ep-vpn){:rel="nofollow"}
+### 中国VPN推荐/排行（一）：<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN - 翻墙稳定，速度最快，30天免费</a>
+
+[ExpressVPN - 翻墙稳定，速度最快，30天免费](https://bit.ly/ep-vpn){:rel="nofollow"}
 
 ![ExpressVPN Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/ExpressVPN%20Banner.jpg)
 
