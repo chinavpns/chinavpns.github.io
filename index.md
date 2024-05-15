@@ -119,7 +119,7 @@
 
 ### 翻墙VPN排行（一）：[ExpressVPN - 翻墙稳定，安全好用，速度最快，30天免费](https://bit.ly/ep-vpn){:rel="nofollow"}
 
-![ExpressVPN Banner：国内最好用的翻墙VPN排行](https://chinavpns.github.io/image/expressvpn%20banner-3.jpg)
+![ExpressVPN Banner：国内最好用的翻墙VPN排行榜第一名](https://chinavpns.github.io/image/expressvpn%20banner-3.jpg)
 
 在2024年，ExpressVPN凭借其卓越的性能和强大的功能，稳居翻墙VPN排行榜的第一名。这款翻墙软件在多个方面表现出色，成为用户翻墙的首选。
 
@@ -144,6 +144,8 @@
 ****
 
 ### 翻墙VPN排行（二）：[PureVPN - 老牌VPN，价格便宜，2.11美金/月](https://bit.ly/pe-vpn){:rel="nofollow"}
+
+![PureVPN Banner：国内最好用的翻墙VPN排行榜第二名](https://chinavpns.github.io/image/purevpn%20banner.jpg)
 
 PureVPN自2006年成立以来，凭借其丰富的经验和对中国网络环境的深入了解，成为翻墙VPN排行中的第二名。总部曾设在香港，这使得PureVPN能够更好地理解和满足中国用户的需求，提供相对稳定的翻墙服务。
 
