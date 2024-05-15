@@ -1,7 +1,7 @@
 
 # 翻墙软件推荐：2024年国内最好用的翻墙VPN排行
 
-***最近更新于：2024年5月15日***
+***<font color="red">最近更新于：2024年5月15日</font>***
 
 科学上网指南：[https://github.com/chinavpns/chinavpns.github.io](https://github.com/chinavpns/chinavpns.github.io)
 
