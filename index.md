@@ -119,7 +119,7 @@
 
 ### 翻墙VPN排行（一）：[ExpressVPN - 翻墙稳定，安全好用，速度最快，30天免费](https://bit.ly/ep-vpn){:rel="nofollow"}
 
-![ExpressVPN Banner：国内最好用的翻墙VPN排行榜第一名](https://chinavpns.github.io/image/expressvpn%20banner-3.jpg)
+![ExpressVPN Banner：国内最好用的翻墙VPN排行榜第一名](https://chinavpns.github.io/image/expressvpn%20banner%203.jpg)
 
 在2024年，ExpressVPN凭借其卓越的性能和强大的功能，稳居翻墙VPN排行榜的第一名。这款翻墙软件在多个方面表现出色，成为用户翻墙的首选。
 
@@ -169,6 +169,8 @@ PureVPN自2006年成立以来，凭借其丰富的经验和对中国网络环境
 
 ### 翻墙VPN排行（三）：[NordVPN - 安全性高，功能强大](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902){:rel="nofollow"}
 
+![NordVPN Banner：国内最好用的翻墙VPN排行榜第三名](https://chinavpns.github.io/image/nordvpn%20banner%202.jpg)
+
 NordVPN作为一款老牌翻墙VPN，在国内和国外用户中有着良好的口碑。尽管在某些特殊时期其翻墙效果可能有所下降（NordVPN翻墙稳定性略逊色于ExpressVPN和PureVPN），但用户可以通过联系客服获得帮助，解决连接问题。
 
 **安全功能非常强大**：NordVPN以其强大的安全功能著称，采用AES-256位加密技术，确保用户数据的安全传输。此外，NordVPN提供双重VPN功能，将用户流量通过两个VPN服务器进行加密，进一步提升安全性。这些功能使得NordVPN在保护用户隐私和安全方面表现突出，非常适合注重安全的用户，尤其是那些愿意手动配置VPN的老手。
@@ -188,6 +190,8 @@ NordVPN作为一款老牌翻墙VPN，在国内和国外用户中有着良好的�
 ****
 
 ### 翻墙VPN排行（四）：[Surfshark - 不限制设备数，性价比高](https://bit.ly/surf-vpn){:rel="nofollow"}
+
+![Surfshark Banner：国内最好用的翻墙VPN排行榜第四名](https://chinavpns.github.io/image/surfshark%20banner.jpg)
 
 Surfshark作为VPN行业的黑马，尽管成立时间较短，但凭借其出色的性能和独特的翻墙功能，迅速在市场上崭露头角。
 
