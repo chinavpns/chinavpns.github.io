@@ -140,7 +140,7 @@
 
 ### 中国VPN推荐/排行（一）：[ExpressVPN - 翻墙稳定，速度最快，30天免费](https://bit.ly/ep-vpn)
 
-![ExpressVPN Banner：中国VPN推荐/排行](https://chinavpns.github.io/image/ExpressVPN%20Banner.jpg)
+![ExpressVPN Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/ExpressVPN%20Banner.jpg)
 
 在2024年的中国VPN推荐榜单中，ExpressVPN稳居首位，是许多中国网民首选的翻墙软件。ExpressVPN之所以受到广泛推荐，主要归功于其在中国的出色表现和稳定服务。以下详细介绍为什么ExpressVPN在众多VPN服务中脱颖而出，成为最佳的科学上网工具。
 
@@ -165,6 +165,8 @@ ExpressVPN的客户端覆盖了所有主流平台，包括Windows、Mac、Androi
 ****
 
 ### 中国VPN推荐/排行（二）：[PureVPN - 老牌VPN，价格便宜，2.11美金/月](https://bit.ly/pe-vpn)
+
+![PureVPN Banner：科学上网，中国VPN推荐](https://chinavpns.github.io/image/purevpn%20banner-2.jpg)
 
 在2024年的中国VPN推荐/排行中，PureVPN表现出色，成为许多用户的优选。这家国际知名的VPN服务商不仅提供全面的设备支持，包括电脑、手机和多种智能设备，而且以其相对经济的价格和稳定的性能在用户中建立了良好的声誉。以下是详细介绍PureVPN作为科学上网工具的几个关键优势。
 
