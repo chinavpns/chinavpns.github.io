@@ -8,10 +8,10 @@
 
 如果你没有太多时间来阅读完本文，可以查看我们的中国VPN推荐简讯：
 
-* VPN推荐（一）：**ExpressVPN** - 翻墙稳定，速度最快，30天免费
-* VPN推荐（一）：**PureVPN** - 老牌VPN，价格便宜，2.11美金/月
-* VPN推荐（一）：**Surfshark** - 不限制设备数，性价比高
-* VPN推荐（一）：**NordVPN** - 安全性高，功能强大
+* VPN推荐（一）：**<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN</a>** - 翻墙稳定，速度最快，30天免费
+* VPN推荐（一）：**<a href="https://bit.ly/pe-vpn" rel="nofollow">PureVPN</a>** - 老牌VPN，价格便宜，2.11美金/月
+* VPN推荐（一）：**<a href="https://bit.ly/surf-vpn" rel="nofollow">Surfshark</a>** - 不限制设备数，性价比高
+* VPN推荐（一）：**<a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902" rel="nofollow">NordVPN</a>** - 安全性高，功能强大
 
 以上四款VPN都能在中国使用，而且安全性高，兼容性好，简单易用，价格便宜，且都提供24小时在线客服和为期30天退款保证，大家可以放心购买使用，不满意可以随时申请全额退款。
 
