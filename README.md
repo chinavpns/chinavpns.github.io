@@ -6,7 +6,7 @@
 
 ## 2024年中国VPN推荐（简讯）
 
-如果你没有太多时间来阅读完本文，可以查看我们的中国VPN推荐简讯：
+如果你没有太多时间来阅读完本文，可以查看我们的中国VPN推荐简讯（本文下方还有各款VPN的详细评测）：
 
 * VPN推荐（一）：**<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN</a>** - 翻墙稳定，速度最快，30天免费
 * VPN推荐（一）：**<a href="https://bit.ly/pe-vpn" rel="nofollow">PureVPN</a>** - 老牌VPN，价格便宜，2.11美金/月
