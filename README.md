@@ -458,8 +458,6 @@ DNS泄露是连接VPN时常见的问题之一，它会暴露用户的真实IP地
 
 * <a href=https://chinavpns.github.io/>翻墙VPN排行</a>：在这篇文章中，我们将详细介绍国内最好用的VPN排行，帮助你找到最适合的翻墙软件。无论是为了访问更多的全球资源，还是为了提升网络速度和稳定性，这些推荐的翻墙VPN都将满足你的需求。
 
-* <a href=https://github.com/chinavpns/chinavpns.github.io>科学上网指南和中国VPN推荐</a>：2024年科学上网指南和最好用的中国VPN推荐！我们基于VPN中国大陆实测之后，挑选了几款最好用的中国VPN翻墙软件，它们可帮助中国网民快速访问国外Google、Facebook、Youtube、Netflix、ChatGPT、TikTok、Telegram等网站！
-
 * <a href=https://github.com/chinavpns/pcvpn.github.io>电脑翻墙和电脑VPN推荐</a>：2024年最好用的电脑VPN推荐！本文将详细介绍目前最有效的电脑翻墙方法，并为大家推荐几款在中国最好用的PC端VPN，以帮助大家找到最适合的电脑翻墙软件，轻松访问海外Google、Facebook、Youtube、ChatGPT、Telegram、TikTok等网站。
 
 * <a href=https://github.com/chinavpns/androidvpn.github.io>安卓翻墙和安卓VPN推荐</a>：2024年最好用的安卓VPN推荐！本文将详细介绍多种安卓翻墙方法，并推荐几款最佳的安卓翻墙软件，让你可以自由访问海外Netflix、Youtube、ChatGPT等网站。
