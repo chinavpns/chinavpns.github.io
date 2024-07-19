@@ -161,6 +161,9 @@ NordVPN的所有服务器都配备有专用DNS，且坚持不记录任何用户�
 
 艾可云提供了12种价格套餐，包括月付套餐、年付套餐和一次性套餐。值得一提的是，艾可云的一次性套餐非常适合不经常使用VPN的用户，该套餐没有时间限制，直到用完为止。
 
+![艾可云价格：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/v2aky-price.jpg)
+![艾可云价格：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/v2aky-price-2.jpg)
+
 * 月付套餐：￥42元/月，每月110G流量，专线！
 * 月付套餐：￥58元/月，每月165G流量，专线！ 
 * 月付套餐：￥80元/月，每月250G流量，专线！ 
@@ -173,9 +176,6 @@ NordVPN的所有服务器都配备有专用DNS，且坚持不记录任何用户�
 * 一次性套餐：￥66元，共120G流量，不限时，用完为止！
 * 一次性套餐：￥118元，共280G流量，不限时，用完为止！
 * 一次性套餐：￥220元，共650G流量，不限时，用完为止！
-
-![艾可云价格：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/v2aky-price.jpg)
-![艾可云价格：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/v2aky-price-2.jpg)
 
 注意：艾可云在翻墙稳定性和连接速度等方面表现优秀，几乎可以与ExpressVPN相媲美！但在隐私安全保护方面相对较弱，无法兼容路由器、智能电视、游戏机等设备，仅在全球十多个国家部署了几十台服务器，仅支持5台设备同时登录，也没有24小时在线客服，不支持30天退款保证。因此，如果你的翻墙需求不大，艾可云是一个不错的选择；但如果你需要经常使用VPN来翻墙，我们建议首选ExpressVPN和PureVPN等顶级中国VPN。
 
