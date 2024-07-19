@@ -153,7 +153,7 @@ NordVPN的所有服务器都配备有专用DNS，且坚持不记录任何用户�
 
 尽管ExpressVPN、PureVPN、NordVPN和Surfshark是全球知名且性能卓越的中国VPN，但市场上还有一些其他值得尝试的国产VPN。这些国产VPN同样能够在中国使用，翻墙稳定，并且拥有各自独特的优势。在本节中，我们将介绍几款同样表现出色的国产VPN，以帮助用户在选择时有更多的参考。
 
-### 1，<a href=https://v2aky.com/#/register?code=LeAC4NXy>艾可云 - 最好用的国产VPN</a>
+### 1，<a href=https://wallvpn.com/go/v2aky/>艾可云 - 最好用的国产VPN</a>
 
 艾可云是一款专为翻墙而设计的国产VPN软件，它支持SS、V2ray和Trojan等协议，不仅可以轻松绕过GFW的封锁和限制，还可以为中国大陆用户提供稳定且快速的连接。艾可云价格便宜、翻墙稳定、连接速度快，是众多中国用户的首选翻墙软件之一。
 
@@ -176,7 +176,7 @@ NordVPN的所有服务器都配备有专用DNS，且坚持不记录任何用户�
 
 注意：艾可云在翻墙稳定性和连接速度等方面表现优秀，几乎可以与ExpressVPN相媲美！但在隐私安全保护方面相对较弱，无法兼容路由器、智能电视、游戏机等设备，仅在全球十多个国家部署了几十台服务器，仅支持5台设备同时登录，也没有24小时在线客服，不支持30天退款保证。因此，如果你的翻墙需求不大，艾可云是一个不错的选择；但如果你需要经常使用VPN来翻墙，我们建议首选ExpressVPN和PureVPN等顶级中国VPN。
 
-**<p align="center"><a href=https://v2aky.com/#/register?code=LeAC4NXy>立即获取艾可云</a></p>**
+**<p align="center"><a href=https://wallvpn.com/go/v2aky/>立即获取艾可云</a></p>**
 
 以上几款国产VPN虽然无法与ExpressVPN、PureVPN等顶级VPN相比，但它们在中国仍能提供稳定的翻墙服务。这些国产VPN的安全性和兼容性相对较弱，解锁地域限制和客户支持方面也不如ExpressVPN等翻墙VPN。然而，它们的连接速度不错，且价格较为便宜，因此也值得大家尝试。尽管不是最佳选择，这些国产VPN仍提供了一个经济实惠的替代方案。
 
