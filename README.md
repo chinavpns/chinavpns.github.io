@@ -1,4 +1,4 @@
-# 中国VPN推荐：2024年最好用的VPN排行
+# <p align="center">中国VPN推荐：2024年最好用的VPN排行</p>
 
 <p align="center">最近更新于：2024年7月19日</p>
 
