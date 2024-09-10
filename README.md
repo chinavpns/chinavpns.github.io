@@ -109,6 +109,8 @@ ExpressVPN的客户端覆盖了所有主流平台，包括Windows、Mac、Androi
 
 总结来说，ExpressVPN以其卓越的技术支持、稳定的性能、强大的隐私保护措施以及客户友好的政策，在众多VPN服务中脱颖而出，成为中国用户首选的翻墙VPN。其全方位的服务体验，让用户在使用过程中几乎无需担忧技术和安全问题，可以说是目前市面上最好用的中国VPN之一。
 
+**<p align="center"><a href="https://bit.ly/ep-vpn" rel="nofollow">立即获取ExpressVPN，30天免费</a></p>**
+
 #### ExpressVPN中国使用指南
 
 在中国使用ExpressVPN时，有时会遇到连接不畅的问题，尤其是在防火长城（GFW）升级或敏感时期。为确保ExpressVPN在这些情况下仍然可用，可以参考以下详细指南：
