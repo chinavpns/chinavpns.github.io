@@ -10,7 +10,7 @@
 
 如果你没有太多时间来阅读完本文，可以查看我们的中国VPN推荐简讯（本文下方还有各款VPN的详细评测）：
 
-* 中国VPN推荐（一）：**<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN</a>** - 翻墙稳定，速度最快，30天免费（推荐指数：9.9/10）
+* 中国VPN推荐（一）：**<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN</a>** - 翻墙最稳定，速度最快，30天免费（推荐指数：9.9/10）
 * 中国VPN推荐（二）：**<a href="https://bit.ly/pe-vpn" rel="nofollow">PureVPN</a>** - 老牌VPN，价格便宜，2.11美金/月（推荐指数：9.5/10）
 * 中国VPN推荐（三）：**<a href="https://bit.ly/surf-vpn" rel="nofollow">Surfshark</a>** - 不限制设备数，性价比高（推荐指数：8.0/10）
 * 中国VPN推荐（四）：**<a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902" rel="nofollow">NordVPN</a>** - 安全性高，功能强大（推荐指数：8.0/10）
