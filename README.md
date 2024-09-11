@@ -141,31 +141,31 @@ ExpressVPN的客户端覆盖了所有主流平台，包括Windows、Mac、Androi
 
 ExpressVPN是一款非常成熟且易于使用的VPN，无论是下载安装还是购买过程都非常简单。本文将详细介绍如何在中国购买、下载和安装ExpressVPN，确保你能够顺利使用这款VPN翻墙访问被封锁的网站。不过，在开始具体操作之前，需要提醒的是，由于防火长城（GFW）封锁了ExpressVPN的官方网站，用户必须通过其他翻墙工具（例如其他VPN或机场梯子）来访问ExpressVPN官网并进行购买和下载操作。
 
-* 1，点击我们提供的优惠链接进入ExpressVPN官网
+* **1，点击我们提供的优惠链接进入ExpressVPN官网**
 
 ![中国VPN推荐和最好用的VPN排行：点击我们提供的优惠链接进入ExpressVPN官网](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-1.jpg)
 
 由于ExpressVPN不再提供中国镜像官网，而谷歌搜索的结果大多为山寨或钓鱼网站，强烈建议通过我们提供的唯一官网链接进行访问。这样可以确保你进入的是官方安全页面，避免因误入假冒网站而造成财产损失。此外，使用该链接还可享受独家优惠，如“买一年送三个月”的折扣。进入ExpressVPN官网后，直接点击页面上的“Get ExpressVPN”按钮，即可开始套餐选择和购买流程。
 
-* 2，选择适合你的付费套餐，比如12个月套餐
+* **2，选择适合你的付费套餐，比如12个月套餐**
 
 ![中国VPN推荐和最好用的VPN排行：选择适合你的付费套餐，比如12个月套餐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-2.jpg)
 
 进入ExpressVPN官网后，系统会引导你到套餐选择页面。ExpressVPN提供三种订阅时长：1个月、6个月和12个月。一般来说，12个月的年付套餐最为划算，不仅价格更低，还附赠三个月的免费使用期，折算下来每月费用更便宜。你可以根据需求选择合适的套餐，但如果打算长期使用，年付套餐最值得考虑，并且还享有ExpressVPN的30天无理由退款保证。
 
-* 3，输入电子邮箱注册，并按照系统提示完成支付
+* **3，输入电子邮箱注册，并按照系统提示完成支付**
 
 ![中国VPN推荐和最好用的VPN排行：输入电子邮箱注册，并按照系统提示完成支付](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-3.jpg)
 
 在套餐选择页面后，系统会要求你输入一个有效的电子邮箱进行注册。建议使用Gmail、Outlook等国外邮箱，避免使用国内的QQ、网易等邮箱，以确保能接收ExpressVPN的相关邮件。接着，你将进入支付页面，ExpressVPN支持多种付款方式，包括Visa、MasterCard、PayPal和比特币等。选择适合你的支付方式后，按照页面提示完成支付。支付完成后，你将收到一封包含账户和登录信息的确认邮件。
 
-* 4，下载ExpressVPN客户端，并按照提示完成安装
+* **4，下载ExpressVPN客户端，并按照提示完成安装**
 
 ![中国VPN推荐和最好用的VPN排行：下载ExpressVPN客户端，并按照提示完成安装](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-4.jpg)
 
 支付完成后，你将被引导至ExpressVPN的“Setup”页面。根据你的设备选择相应的客户端，ExpressVPN支持多种操作系统，包括Windows、macOS、Android、iOS和Linux等。如果你使用安卓设备，ExpressVPN提供APK文件，直接下载即可，省去了Google Play的限制。iOS用户则需使用美区Apple ID下载，或根据提供的连接手动配置VPN。下载完成后，按照系统提示一步步进行安装，整个过程简单快捷。安装完成后，客户端将自动启动。
 
-* 5，登陆ExpressVPN客户端，一键翻墙
+* **5，登陆ExpressVPN客户端，一键翻墙**
 
 ![中国VPN推荐和最好用的VPN排行：登陆ExpressVPN客户端，一键翻墙](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-5.jpg)
 
