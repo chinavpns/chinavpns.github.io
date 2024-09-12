@@ -724,12 +724,11 @@ Hotspot Shield是一款全球知名的VPN服务，拥有超过3200台服务器�
 
 * <a href=https://github.com/chinavpns/pcvpn.github.io>电脑翻墙</a>和<a href=https://github.com/chinavpns/pcvpn.github.io>电脑VPN推荐</a>：2024年最好用的电脑VPN推荐！本文将详细介绍目前最有效的电脑翻墙方法，并为大家推荐几款在中国最好用的PC端VPN，以帮助大家找到最适合的电脑翻墙软件，轻松访问海外Google、Facebook、Youtube、ChatGPT、Telegram、TikTok等网站。
 
-* <a href=https://github.com/chinavpns/androidvpn.github.io>安卓翻墙</a>和<a href=https://github.com/chinavpns/androidvpn.github.io>安卓VPN推荐</a>：2024年最好用的安卓VPN推荐！本文将详细介绍多种安卓翻墙方法，并推荐几款最佳的安卓翻墙软件，让你可以自由访问海外Netflix、Youtube、ChatGPT等网站。
-
 * <a href=https://github.com/chinavpns/iosvpn.github.io>苹果翻墙</a>和<a href=https://github.com/chinavpns/iosvpn.github.io>苹果VPN推荐</a>：2024年最好用的安卓VPN推荐！本文将详细介绍多种安卓翻墙方法，并推荐几款最佳的安卓翻墙软件，让你可以自由访问海外Netflix、Youtube、ChatGPT等网站。
 
-* <a href=https://github.com/chinavpns/freevpn.github.io>免费VPN推荐</a>：2024年最好用的免费VPN推荐！本文将会给大家推荐几款在中国国内可用的免费VPN加速器（包含大陆永久免费VPN）和提供30天免费试用的顶级付费VPN软件！
+* <a href=https://github.com/chinavpns/androidvpn.github.io>安卓翻墙</a>和<a href=https://github.com/chinavpns/androidvpn.github.io>安卓VPN推荐</a>：2024年最好用的安卓VPN推荐！本文将详细介绍多种安卓翻墙方法，并推荐几款最佳的安卓翻墙软件，让你可以自由访问海外Netflix、Youtube、ChatGPT等网站。
 
 * <a href=https://github.com/chinavpns/cheapvpn.github.io>便宜VPN推荐</a>：2024年中国好用的便宜VPN推荐！本文会为大家推荐几款中国便宜好用的VPN软件，它们在安全性、连接速度、翻墙稳定性、兼容性、客户支持等方面表现优异，可以帮助你在中国自由上网。
 
-* <a href=https://chinavpns.gitbook.io/chinavpns>最好用的VPN排行</a>：本文为大家推荐2024年最好用的中国VPN，帮助用户找到适合自己的翻墙工具，确保在网络严控环境下依然能够自由、安全地访问全球互联网。
+* <a href=https://github.com/chinavpns/telegram>Telegram注册</a>：2024年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
+
