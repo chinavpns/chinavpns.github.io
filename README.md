@@ -730,5 +730,6 @@ Hotspot Shield是一款全球知名的VPN服务，拥有超过3200台服务器�
 
 * <a href=https://github.com/chinavpns/cheapvpn.github.io>便宜VPN推荐</a>：2024年中国好用的便宜VPN推荐！本文会为大家推荐几款中国便宜好用的VPN软件，它们在安全性、连接速度、翻墙稳定性、兼容性、客户支持等方面表现优异，可以帮助你在中国自由上网。
 
-* <a href=https://github.com/chinavpns/telegram>Telegram注册</a>：2024年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
+* <a href=https://github.com/chinavpns/freevpn.github.io>免费VPN推荐</a>：2024年最好用的免费VPN推荐！本文将会给大家推荐几款在中国国内可用的免费VPN加速器（包含大陆永久免费VPN）和提供30天免费试用的顶级付费VPN软件！
 
+* <a href=https://github.com/chinavpns/telegram>Telegram注册</a>：2024年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
