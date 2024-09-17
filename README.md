@@ -6,6 +6,8 @@
 
 ![中国VPN推荐：2024年最好用的VPN排行](https://chinavpns.github.io/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.jpg)
 
+<blockquote>
+
 ## 2024年中国VPN推荐（简讯）
 
 如果你没有太多时间来阅读完本文，可以查看我们的中国VPN推荐简讯（本文下方还有各款VPN的详细评测）：
@@ -16,6 +18,8 @@
 * 中国VPN推荐（四）：**<a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">NordVPN</a>** - 安全性高，功能强大（推荐指数：8.0/10）
 
 以上四款VPN都能在中国使用，而且安全性高，兼容性好，简单易用，价格便宜，且都提供24小时在线客服和为期30天退款保证，大家可以放心购买使用，不满意可以随时申请全额退款。
+
+</blockquote>
 
 ## 最好用的中国VPN推荐标准
 
