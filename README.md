@@ -1,6 +1,6 @@
 # <p align="center">中国VPN推荐：2024年最好用的VPN排行</p>
 
-<p align="center">最近更新于：2024年9月25日</p>
+<p align="center">最近更新于：2024年10月17日</p>
 
 ![中国VPN推荐：2024年最好用的VPN排行](https://chinavpns.github.io/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.jpg)
 
