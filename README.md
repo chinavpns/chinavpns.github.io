@@ -9,11 +9,10 @@
 如果你没有太多时间来阅读完本文，可以查看我们的中国VPN推荐简讯（本文下方还有各款VPN的详细评测）：
 
 * 中国VPN推荐（一）：**<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>** - 翻墙最稳定，速度最快，30天免费（推荐指数：9.9/10）
-* 中国VPN推荐（二）：**<a href="https://wallvpn.com/go/purevpn/" rel="nofollow">PureVPN</a>** - 老牌VPN，价格便宜，2.11美金/月（推荐指数：9.5/10）
-* 中国VPN推荐（三）：**<a href="https://wallvpn.com/go/surfsharkvpn/" rel="nofollow">Surfshark</a>** - 不限制设备数，性价比高（推荐指数：7.0/10）
-* 中国VPN推荐（四）：**<a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">NordVPN</a>** - 安全性高，功能强大（推荐指数：5.0/10）
+* 中国VPN推荐（二）：**<a href="https://wallvpn.com/go/purevpn/" rel="nofollow">PureVPN</a>** - 安全好用，价格便宜，2.11美金/月（推荐指数：9.5/10）
+* 中国VPN推荐（三）：**<a href="https://wallvpn.com/go/surfsharkvpn/" rel="nofollow">StrongVPN</a>** - 老牌VPN，3.97美金/月，支付支付宝付款（推荐指数：9.5/10）
 
-以上四款VPN都能在中国使用，而且安全性高，兼容性好，简单易用，价格便宜，且都提供24小时在线客服和为期30天退款保证，大家可以放心购买使用，不满意可以随时申请全额退款。
+以上几款VPN都能在中国使用，而且安全性高，兼容性好，简单易用，价格便宜，且都提供24小时在线客服和为期30天退款保证，大家可以放心购买使用，不满意可以随时申请全额退款。
 
 <blockquote>
   <h2 id="本文内容导航">本文内容导航</h2>
