@@ -1,6 +1,6 @@
 # <p align="center">中国VPN推荐：2024年最好用的VPN排行</p>
 
-<p align="center">最近更新于：2024年10月17日</p>
+<p align="center">最近更新于：2024年11月2日</p>
 
 ![中国VPN推荐：2024年最好用的VPN排行](https://chinavpns.github.io/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.jpg)
 
@@ -8,7 +8,7 @@
 
 如果你没有太多时间来阅读完本文，可以查看我们的中国VPN推荐简讯（本文下方还有各款VPN的详细评测）：
 
-* 中国VPN推荐（一）：**<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>** - 翻墙最稳定，速度最快，30天免费（推荐指数：9.9/10）
+* 中国VPN推荐（一）：**<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>** - 翻墙最稳定，速度最快，免费试用30天（推荐指数：9.9/10）
 * 中国VPN推荐（二）：**<a href="https://wallvpn.com/go/purevpn/" rel="nofollow">PureVPN</a>** - 安全好用，价格便宜，2.11美金/月（推荐指数：9.5/10）
 * 中国VPN推荐（三）：**<a href="https://wallvpn.com/go/surfsharkvpn/" rel="nofollow">StrongVPN</a>** - 老牌VPN，3.97美金/月，支付支付宝付款（推荐指数：9.5/10）
 
