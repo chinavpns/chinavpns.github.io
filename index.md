@@ -209,7 +209,7 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛，是全球顶级
 
 ****
 
-### 翻墙VPN推荐（二）：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 老牌VPN，支持支付宝付款</a>
+### 翻墙VPN推荐（二）：<a href="https://wallvpn.com/go/strong-vpn/" rel="nofollow">StrongVPN - 老牌VPN，支持支付宝付款</a>
 
 ![StrongVPN Banner：科学上网指南，最好用的翻墙软件和翻墙VPN推荐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-Banner.png)
 
