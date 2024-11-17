@@ -31,9 +31,8 @@
   <h3 id="5-2024年最好用的翻墙软件和翻墙vpn推荐">5. <a href="#2024年最好用的翻墙软件和翻墙vpn推荐">2024年最好用的翻墙软件和翻墙VPN推荐</a></h3>
   <blockquote>	
   <h4 id="1-翻墙vpn推荐一expressvpn---翻墙非常稳定安全性高速度业内最快30天免费">1. <a href="#翻墙vpn推荐一expressvpn---翻墙非常稳定安全性高速度业内最快30天免费">翻墙VPN推荐（一）：ExpressVPN - 翻墙非常稳定，安全性高，速度业内最快，30天免费</a></h4>
-  <h4 id="2-翻墙vpn推荐二purevpn---老牌vpn价格便宜211美金月">2. <a href="#翻墙vpn推荐二purevpn---老牌vpn价格便宜211美金月">翻墙VPN推荐（二）：PureVPN - 老牌VPN，价格便宜，2.11美金/月</a></h4>
-  <h4 id="3-翻墙vpn推荐三nordvpn---安全性高功能强大">3. <a href="#翻墙vpn推荐三nordvpn---安全性高功能强大">翻墙VPN推荐（三）：NordVPN - 安全性高，功能强大</a></h4>
-  <h4 id="4-翻墙vpn推荐四surfshark---不限制设备数性价比高">4. <a href="#翻墙vpn推荐四surfshark---不限制设备数性价比高">翻墙VPN推荐（四）：Surfshark - 不限制设备数，性价比高</a></h4>
+  <h4 id="2-翻墙vpn推荐二strongvpn---老牌vpn支持支付宝付款">2. <a href="#翻墙vpn推荐二strongvpn---老牌vpn支持支付宝付款">翻墙VPN推荐（二）：StrongVPN - 老牌VPN，支持支付宝付款</a></h4>
+  <h4 id="3-翻墙vpn推荐三purevpn---安全好用价格便宜211美金月">3. <a href="#翻墙vpn推荐三purevpn---安全好用价格便宜211美金月">翻墙VPN推荐（三）：PureVPN - 安全好用，价格便宜，2.11美金/月</a></h4>
   </blockquote>
   <h3 id="6-2024年翻墙与科学上网注意事项">6. <a href="#2024年翻墙与科学上网注意事项">2024年翻墙与科学上网注意事项</a></h3>
   <h3 id="7-我们为什么要翻墙">7. <a href="#我们为什么要翻墙">我们为什么要翻墙？</a></h3>
