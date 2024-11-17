@@ -2,7 +2,7 @@
 
 <p align="center">最近更新于：2024年11月17日</p>
 
-![科学上网指南：2024年最好用的翻墙VPN和翻墙软件推荐](https://chinavpns.github.io/image/%E7%BF%BB%E5%A2%99VPN%E6%8E%92%E8%A1%8C.jpg)
+![科学上网指南：2024年最好用的翻墙VPN和翻墙软件推荐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B.png)
 
 在如今这个信息封锁和网络审查日益严格的环境下，科学上网已成为越来越多用户的刚需。尤其是在2024年，选择一款可靠的翻墙VPN或翻墙软件，不仅可以让你顺利访问全球资源，还能有效保障个人隐私和网络安全。在这篇指南中，我们将为你深入解析如何科学上网，并推荐几款目前市面上表现最为出色的翻墙VPN和翻墙软件。无论是为了解锁被封锁的网站，还是提升网络速度和连接稳定性，这些科学上网工具都能满足你在不同场景下的需求，助你畅游全球互联网。
 
@@ -199,7 +199,7 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛，是全球顶级
 
 客户服务和退款保证：ExpressVPN提供24小时全天候客户支持，用户可通过即时聊天或邮件快速获得帮助。其客服团队响应迅速，能够高效解决用户在技术支持或账户管理方面遇到的各类问题。此外，ExpressVPN提供30天无理由退款保证，用户可在30天内随时申请全额退款，让购买体验完全无风险。
 
-![ExpressVPN价格：科学上网指南，最好用的翻墙VPN和翻墙软件推荐](https://chinavpns.github.io/image/ExpressVPN%20%E4%BB%B7%E6%A0%BC.jpg)
+![ExpressVPN价格：科学上网指南，最好用的翻墙软件和翻墙VPN推荐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC.jpg)
 
 总的来说，ExpressVPN凭借其卓越的翻墙能力、顶级的安全功能、覆盖全球的庞大服务器网络、出色的兼容性以及优质的客户服务，稳居2024年国内最好用的翻墙VPN榜首，成为绝大多数中国用户的科学上网首选工具。
 
