@@ -832,8 +832,6 @@ Hotspot Shield是一款全球知名的VPN服务，拥有超过3200台服务器�
 * 中国VPN推荐（一）：**<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>** - 翻墙稳定，速度最快，免费试用30天
 * 中国VPN推荐（二）：**<a href="https://wallvpn.com/go/purevpn/" rel="nofollow">PureVPN</a>** - 安全好用，价格便宜，2.11美金/月
 * 中国VPN推荐（三）：**<a href="https://wallvpn.com/go/strong-vpn/" rel="nofollow">StrongVPN</a>** - 老牌VPN，3.97美金/月，支付支付宝付款
-* 中国VPN推荐（四）：**<a href="https://wallvpn.com/go/surfsharkvpn/" rel="nofollow">Surfshark</a>** - 不限制设备数，性价比高
-* 中国VPN推荐（五）：**<a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">NordVPN</a>** - 安全性高，功能强大
 
 此外，我们推荐使用付费VPN服务以确保最佳的性能和安全性。尽管免费VPN具有吸引力，但通常伴随较大的隐私和稳定性风险。选择可靠的付费VPN不仅可以提供更高的速度和安全保障，还能获得更全面的客户支持。点击查看更多安全<a href=https://wallvpn.com/best-vpn-china/>好用的VPN</a>：<a href=https://wallvpn.com/best-vpn-china/>VPN推荐</a>！
 
