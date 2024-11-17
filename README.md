@@ -162,17 +162,17 @@ ExpressVPN是一款非常成熟且易于使用的VPN，无论是下载安装还�
 
 #### 第一步：点击我们提供的优惠链接进入ExpressVPN官网
 
-由于ExpressVPN不再提供中国镜像官网，而谷歌搜索的结果大多可能是山寨或钓鱼网站，强烈建议通过我们提供的唯一可信赖的官网链接进行访问。这样可以确保你进入的是官方安全页面，避免因误入假冒网站而造成财产损失。此外，使用本站提供的链接进入ExpressVPN官方网站，还可以享受买一年送三个月的优惠折扣。进入ExpressVPN官网后，直接点击页面上的“Get ExpressVPN”按钮，即可开始套餐选择和购买流程。
+由于ExpressVPN不再提供中国镜像官网，而谷歌搜索的结果大多可能是山寨或钓鱼网站，强烈建议通过我们提供的唯一可信赖的官网链接进行访问。这样可以确保你进入的是官方安全页面，避免因误入假冒网站而造成财产损失。此外，使用本站提供的链接进入ExpressVPN官方网站，还可以享受买两年送六个月的优惠折扣。进入ExpressVPN官网后，直接点击页面上的“Get ExpressVPN”按钮，即可开始套餐选择和购买流程。
 
 * ExpressVPN官方网站：<a href="https://wallvpn.com/go/expressvpn/">www.expressvpn.com</a>
 
 ![ExpressVPN中国购买下载安装第一步：点击我们提供的优惠链接进入ExpressVPN官网](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-1.jpg)
 
-#### 第二步：选择适合你的付费套餐，比如12个月套餐
+#### 第二步：选择适合你的付费套餐，比如2年套餐
 
-进入ExpressVPN官网后，系统会引导你到套餐选择页面。ExpressVPN提供三种订阅时长：1个月、6个月和12个月。一般来说，12个月的年付套餐最为划算，不仅价格更低，还附赠三个月的免费使用期，折算下来每月费用更便宜。你可以根据需求选择合适的套餐，但如果打算长期使用，年付套餐最值得考虑，并且还享有ExpressVPN的30天无理由退款保证。
+进入ExpressVPN官网后，系统会自动引导你进入套餐选择页面。ExpressVPN提供三种订阅时长：1个月、1年和2年。通常来说，2年套餐性价比最高，不仅单月费用更低，还额外赠送6个月的免费使用期，折算后每月价格更加实惠。大家可以根据自身需求选择适合的套餐，但如果计划长期使用，2年套餐无疑是最佳选择。同时，所有套餐均享有ExpressVPN提供的30天无理由退款保证，让你可以无风险体验其服务。
 
-![ExpressVPN中国购买下载安装第二步：选择适合你的付费套餐，比如12个月套餐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-2.jpg)
+![ExpressVPN中国购买下载安装第二步：选择适合你的付费套餐，比如2年套餐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E7%9A%84%E4%BB%B7%E6%A0%BC.jpg)
 
 #### 第三步：输入电子邮箱注册，并按照系统提示完成支付
 
