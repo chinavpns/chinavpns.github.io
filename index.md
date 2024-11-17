@@ -235,7 +235,7 @@ StrongVPN兼容性良好，支持Windows、MacOS、iOS、Android、Linux等主�
 
 ****
 
-### 翻墙VPN推荐（三）：<a href="https://wallvpn.com/go/purevpn/" rel="nofollow">PureVPN - 老牌VPN，价格便宜，2.11美金/月</a>
+### 翻墙VPN推荐（三）：<a href="https://wallvpn.com/go/purevpn/" rel="nofollow">PureVPN - 安全好用，价格便宜，2.11美金/月</a>
 
 ![PureVPN Banner：科学上网指南，最好用的翻墙软件和翻墙VPN推荐](https://chinavpns.github.io/image/purevpn%20banner.jpg)
 
