@@ -1,6 +1,7 @@
 /* 通用样式 */
 body {
     font-family: Arial, sans-serif;
+    font-size: 18px; /* 字体大小增加 */
     margin: 0;
     padding: 0;
     background-color: #f4f4f9;
@@ -9,9 +10,7 @@ body {
 
 /* 导航栏样式 */
 header nav {
-    background-color: #007bff;
-    padding: 10px 15px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px; /* 增加高度 */
 }
 
 header nav ul.nav {
@@ -20,49 +19,46 @@ header nav ul.nav {
     padding: 0;
     display: flex;
     justify-content: flex-end; /* 右对齐导航栏 */
-    gap: 20px;
+    gap: 30px; /* 增加导航项间距 */
 }
 
 header nav ul.nav li a {
     text-decoration: none;
-    color: white;
+    color: black; /* 设置白色背景时的字体颜色 */
     font-weight: bold;
+    font-size: 18px;
     padding: 10px 15px; /* 增加点击区域 */
-    transition: background-color 0.3s;
-}
-
-header nav ul.nav li a:hover {
-    background-color: rgba(255, 255, 255, 0.2); /* 添加悬停效果 */
 }
 
 /* 正文部分 */
 main {
-    max-width: 800px; /* 限制正文最大宽度 */
-    margin: 20px auto; /* 自动居中 */
+    max-width: 1200px; /* 正文宽度增加 */
+    margin: 20px auto;
     padding: 20px;
     background-color: #ffffff;
     border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
-    line-height: 1.8; /* 提高行间距 */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    line-height: 1.8;
 }
 
 /* 正文段落 */
 p {
     margin-bottom: 15px;
-    text-align: justify; /* 两端对齐 */
+    text-align: justify;
 }
 
-h1, h2, h3 {
-    color: #333;
-    margin-bottom: 15px;
+/* 图片样式 */
+img {
+    max-width: 1200px; /* 限制图片最大宽度 */
+    height: auto;
+    display: block;
+    margin: 20px auto;
 }
 
 /* 页脚样式 */
 footer {
-    text-align: center;
+    text-align: center; /* 页脚居中 */
     margin-top: 20px;
     font-size: 14px;
-    background-color: #333;
-    color: white;
-    padding: 10px 0;
+    color: #666;
 }
