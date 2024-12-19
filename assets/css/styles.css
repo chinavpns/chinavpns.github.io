@@ -4,15 +4,20 @@ body {
     font-size: 18px;
     margin: 0;
     padding: 0;
-    background-color: #ffffff; /* 整体背景颜色为白色 */
+    background-color: #ffffff; /* 页面背景颜色 */
     color: #333;
 }
 
 /* 导航栏样式 */
 header nav {
-    background-color: #f2f2f2; /* 导航条颜色为稍深的白色 */
-    padding: 15px 0;
+    background-color: #fafafa; /* 导航条背景颜色为更浅的白色 */
+    padding: 20px 0; /* 增加导航条高度 */
     border-bottom: 1px solid #e0e0e0; /* 添加底部分隔线 */
+    position: fixed; /* 悬浮效果 */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* 保证导航条悬浮在其他内容之上 */
 }
 
 header nav ul.nav {
@@ -40,7 +45,7 @@ header nav ul.nav li a:hover {
 /* 正文部分 */
 main {
     max-width: 1200px; /* 限制正文最大宽度 */
-    margin: 30px auto; /* 居中对齐 */
+    margin: 80px auto 30px; /* 调整正文顶部间距，避免被悬浮导航条遮挡 */
     padding: 20px;
     background-color: #ffffff; /* 正文背景为白色 */
     line-height: 1.8;
