@@ -1,7 +1,7 @@
 /* 通用样式 */
 body {
     font-family: Arial, sans-serif;
-    font-size: 18px; /* 字体大小增加 */
+    font-size: 18px; /* 字体大小 */
     margin: 0;
     padding: 0;
     background-color: #f4f4f9;
@@ -10,7 +10,7 @@ body {
 
 /* 导航栏样式 */
 header nav {
-    padding: 20px; /* 增加高度 */
+    padding: 20px; /* 导航栏高度增加 */
 }
 
 header nav ul.nav {
@@ -19,12 +19,12 @@ header nav ul.nav {
     padding: 0;
     display: flex;
     justify-content: flex-end; /* 右对齐导航栏 */
-    gap: 30px; /* 增加导航项间距 */
+    gap: 30px;
 }
 
 header nav ul.nav li a {
     text-decoration: none;
-    color: black; /* 设置白色背景时的字体颜色 */
+    color: black; /* 无底色导航栏字体颜色 */
     font-weight: bold;
     font-size: 18px;
     padding: 10px 15px; /* 增加点击区域 */
@@ -32,13 +32,13 @@ header nav ul.nav li a {
 
 /* 正文部分 */
 main {
-    max-width: 1200px; /* 正文宽度增加 */
-    margin: 20px auto;
+    max-width: 1000px; /* 调整正文宽度为 1000px */
+    margin: 20px auto; /* 居中显示 */
     padding: 20px;
     background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    line-height: 1.8;
+    line-height: 1.8; /* 提高行间距 */
 }
 
 /* 正文段落 */
@@ -47,9 +47,14 @@ p {
     text-align: justify;
 }
 
+/* 居中对齐 p 标签 */
+p[align="center"] {
+    text-align: center; /* 恢复 align=center 功能 */
+}
+
 /* 图片样式 */
 img {
-    max-width: 1200px; /* 限制图片最大宽度 */
+    max-width: 1000px; /* 限制图片最大宽度为 1000px */
     height: auto;
     display: block;
     margin: 20px auto;
@@ -57,7 +62,7 @@ img {
 
 /* 页脚样式 */
 footer {
-    text-align: center; /* 页脚居中 */
+    text-align: center; /* 页脚文字居中 */
     margin-top: 20px;
     font-size: 14px;
     color: #666;
