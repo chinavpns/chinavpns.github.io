@@ -1,3 +1,8 @@
+---
+layout: default
+title: 首页
+---
+
 # 科学上网指南：2024年最好用的翻墙软件和翻墙VPN推荐
 
 <p align="center">最近更新于：2024年12月4日</p>
