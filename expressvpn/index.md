@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ExpressVPN评测：ExpressVPN怎么样？
+description: 详细评测ExpressVPN，了解其在中国的表现、速度测试、兼容性和用户体验。
 ---
 
 # ExpressVPN评测：ExpressVPN怎么样？
