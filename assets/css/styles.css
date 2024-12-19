@@ -1,23 +1,21 @@
-/* 通用样式 */
 body {
     font-family: Arial, sans-serif;
     font-size: 18px;
     margin: 0;
     padding: 0;
-    background-color: #ffffff; /* 页面背景颜色 */
+    background-color: #ffffff;
     color: #333;
 }
 
-/* 导航栏样式 */
 header nav {
-    background-color: #fafafa; /* 导航条颜色为浅白色 */
-    padding: 25px 0; /* 增加导航条高度 */
-    border-bottom: 1px solid #e0e0e0; /* 添加底部分隔线 */
-    position: fixed; /* 悬浮效果 */
+    background-color: #fafafa;
+    padding: 25px 0;
+    border-bottom: 1px solid #e0e0e0;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 1000; /* 保证导航条悬浮在其他内容之上 */
+    z-index: 1000;
 }
 
 header nav ul.nav {
@@ -25,14 +23,14 @@ header nav ul.nav {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: flex-end; /* 导航栏靠右 */
+    justify-content: flex-end;
     gap: 30px;
-    margin-right: 20px; /* 增加右侧间距 */
+    margin-right: 20px;
 }
 
 header nav ul.nav li a {
     text-decoration: none;
-    color: #333; /* 导航条文字颜色 */
+    color: #333;
     font-weight: bold;
     font-size: 16px;
     padding: 10px 15px;
@@ -40,40 +38,32 @@ header nav ul.nav li a {
 }
 
 header nav ul.nav li a:hover {
-    background-color: rgba(0, 0, 0, 0.05); /* 悬停时的浅灰背景色 */
+    background-color: rgba(0, 0, 0, 0.05);
 }
 
-/* 正文部分 */
 main {
-    max-width: 1048px; /* 调整正文宽度为1048px */
-    margin: 90px auto 30px; /* 调整顶部间距，避免被悬浮导航条遮挡 */
+    max-width: 1048px;
+    margin: 90px auto 30px;
     padding: 20px;
-    background-color: #ffffff; /* 正文背景为白色 */
+    background-color: #ffffff;
     line-height: 1.8;
 }
 
-/* 图片样式 */
 img {
-    max-width: 100%; /* 图片自适应宽度 */
+    max-width: 100%;
     height: auto;
     display: block;
     margin: 20px auto;
 }
 
-/* 标题样式 */
 h1 {
-    text-align: center; /* H1标题居中 */
+    text-align: center;
     font-size: 2.5em;
     margin-bottom: 20px;
 }
 
-h2, h3 {
-    text-align: left; /* 保持H2、H3标题左对齐 */
-}
-
-/* 页脚样式 */
 footer {
-    text-align: center; /* 页脚文字居中 */
+    text-align: center;
     margin-top: 20px;
     font-size: 14px;
     color: #666;
