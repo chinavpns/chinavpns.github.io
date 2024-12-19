@@ -4,15 +4,15 @@ body {
     font-size: 18px;
     margin: 0;
     padding: 0;
-    background-color: #f7f7f7; /* 页面背景色，稍灰的白色 */
+    background-color: #ffffff; /* 整体背景颜色为白色 */
     color: #333;
 }
 
 /* 导航栏样式 */
 header nav {
-    background-color: #ffffff; /* 导航条底色为白色 */
+    background-color: #f2f2f2; /* 导航条颜色为稍深的白色 */
     padding: 15px 0;
-    border-bottom: 1px solid #e0e0e0; /* 添加灰色分隔线 */
+    border-bottom: 1px solid #e0e0e0; /* 添加底部分隔线 */
 }
 
 header nav ul.nav {
@@ -43,9 +43,7 @@ main {
     margin: 30px auto; /* 居中对齐 */
     padding: 20px;
     background-color: #ffffff; /* 正文背景为白色 */
-    border-radius: 8px; /* 添加圆角 */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05); /* 添加轻微阴影效果 */
-    line-height: 1.8; /* 提高行间距 */
+    line-height: 1.8;
 }
 
 /* 图片样式 */
@@ -62,6 +60,4 @@ footer {
     margin-top: 20px;
     font-size: 14px;
     color: #666;
-    background-color: #f7f7f7; /* 页脚与背景保持一致 */
-    padding: 10px 0;
 }
