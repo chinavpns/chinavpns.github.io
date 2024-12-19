@@ -10,8 +10,8 @@ body {
 
 /* 导航栏样式 */
 header nav {
-    background-color: #fafafa; /* 导航条背景颜色为更浅的白色 */
-    padding: 20px 0; /* 增加导航条高度 */
+    background-color: #fafafa; /* 导航条颜色为浅白色 */
+    padding: 25px 0; /* 增加导航条高度 */
     border-bottom: 1px solid #e0e0e0; /* 添加底部分隔线 */
     position: fixed; /* 悬浮效果 */
     top: 0;
@@ -44,8 +44,8 @@ header nav ul.nav li a:hover {
 
 /* 正文部分 */
 main {
-    max-width: 1200px; /* 限制正文最大宽度 */
-    margin: 80px auto 30px; /* 调整正文顶部间距，避免被悬浮导航条遮挡 */
+    max-width: 1048px; /* 调整正文宽度为1048px */
+    margin: 90px auto 30px; /* 调整顶部间距，避免被悬浮导航条遮挡 */
     padding: 20px;
     background-color: #ffffff; /* 正文背景为白色 */
     line-height: 1.8;
@@ -57,6 +57,17 @@ img {
     height: auto;
     display: block;
     margin: 20px auto;
+}
+
+/* 标题样式 */
+h1 {
+    text-align: center; /* H1标题居中 */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+h2, h3 {
+    text-align: left; /* 保持H2、H3标题左对齐 */
 }
 
 /* 页脚样式 */
