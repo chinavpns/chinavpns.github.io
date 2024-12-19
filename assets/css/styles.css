@@ -3,32 +3,35 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
+    background-color: #f9f9f9;
     color: #333;
 }
 
+/* 导航栏样式 */
 header nav {
     background-color: #007bff;
     padding: 10px;
 }
 
-header nav ul {
+header nav ul.nav {
     list-style: none;
     margin: 0;
     padding: 0;
     display: flex;
+    gap: 15px;
 }
 
-header nav ul li {
-    margin-right: 20px;
-}
-
-header nav ul li a {
+header nav ul.nav li a {
     text-decoration: none;
     color: white;
     font-weight: bold;
 }
 
+header nav ul.nav li a:hover {
+    text-decoration: underline;
+}
+
+/* 正文样式 */
 main {
     padding: 20px;
     line-height: 1.6;
@@ -41,9 +44,8 @@ main h1, main h2, main h3 {
 
 footer {
     text-align: center;
-    margin-top: 20px;
-    font-size: 14px;
     background-color: #333;
     color: white;
     padding: 10px 0;
+    margin-top: 20px;
 }
