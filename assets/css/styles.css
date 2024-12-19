@@ -25,8 +25,9 @@ header nav ul.nav {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center; /* 导航栏居中 */
+    justify-content: flex-end; /* 导航栏靠右 */
     gap: 30px;
+    margin-right: 20px; /* 增加右侧间距 */
 }
 
 header nav ul.nav li a {
