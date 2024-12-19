@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="{{ '/' | relative_url }}">首页</a></li>
+                <li><a href="{{ '/gfw/' | relative_url }}">GFW</a></li>
+                <li><a href="{{ '/cheap-vpn/' | relative_url }}">便宜的 VPN</a></li>
+                <li><a href="{{ '/free-vpn/' | relative_url }}">免费 VPN</a></li>
+                <li><a href="{{ '/expressvpn/' | relative_url }}">ExpressVPN评测</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        <p>© 2024 chinavpns</p>
+    </footer>
+</body>
+</html>
