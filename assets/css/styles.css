@@ -1,16 +1,17 @@
 /* 通用样式 */
 body {
     font-family: Arial, sans-serif;
-    font-size: 18px; /* 字体大小 */
+    font-size: 18px;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
+    background-color: #f7f7f7; /* 正文背景颜色 */
     color: #333;
 }
 
 /* 导航栏样式 */
 header nav {
-    padding: 20px; /* 导航栏高度增加 */
+    background-color: #004b8d; /* 导航条背景色，参考网站蓝色 */
+    padding: 15px;
 }
 
 header nav ul.nav {
@@ -19,42 +20,36 @@ header nav ul.nav {
     padding: 0;
     display: flex;
     justify-content: flex-end; /* 右对齐导航栏 */
-    gap: 30px;
+    gap: 20px;
 }
 
 header nav ul.nav li a {
     text-decoration: none;
-    color: black; /* 无底色导航栏字体颜色 */
+    color: white; /* 导航条字体颜色为白色 */
     font-weight: bold;
     font-size: 18px;
-    padding: 10px 15px; /* 增加点击区域 */
+    padding: 10px 15px;
+    transition: background-color 0.3s ease-in-out;
+}
+
+header nav ul.nav li a:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* 悬停时的透明背景色 */
 }
 
 /* 正文部分 */
 main {
-    max-width: 1000px; /* 调整正文宽度为 1000px */
-    margin: 20px auto; /* 居中显示 */
+    max-width: 1000px; /* 限制正文宽度 */
+    margin: 30px auto; /* 居中对齐 */
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #ffffff; /* 正文背景为白色 */
     border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    line-height: 1.8; /* 提高行间距 */
-}
-
-/* 正文段落 */
-p {
-    margin-bottom: 15px;
-    text-align: justify;
-}
-
-/* 居中对齐 p 标签 */
-p[align="center"] {
-    text-align: center; /* 恢复 align=center 功能 */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
+    line-height: 1.8;
 }
 
 /* 图片样式 */
 img {
-    max-width: 1000px; /* 限制图片最大宽度为 1000px */
+    max-width: 100%; /* 图片自适应宽度 */
     height: auto;
     display: block;
     margin: 20px auto;
