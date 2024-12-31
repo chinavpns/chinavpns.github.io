@@ -68,3 +68,12 @@ footer {
     font-size: 14px;
     color: #666;
 }
+
+a {
+  color: #0969DA;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
