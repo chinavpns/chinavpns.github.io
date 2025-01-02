@@ -742,8 +742,6 @@ VPN的加密技术直接决定了数据传输过程中的安全性。当前最�
 
 <p align="center">若想了解更多关于科学上网的信息，请查看：<a href="https://wallvpn.com/" rel="nofollow">科学上网指南</a></p>
 
-****
-
 ## 翻墙与科学上网相关的其他文章
 
 * <a href="https://wallvpn.com/best-vpn-china/" rel="nofollow">VPN推荐</a>和<a href="https://wallvpn.com/best-vpn-china/" rel="nofollow">VPN排行</a>：2025年能在中国使用，且安全可靠、速度快、稳定性好、性价比高的VPN软件。
