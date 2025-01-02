@@ -77,3 +77,23 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/* 页脚样式 */
+footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    padding-top: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* 修复锚点导航遮挡问题 */
+:target::before {
+    content: '';
+    display: block;
+    height: 80px;
+    margin-top: -80px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 80px;
+}
