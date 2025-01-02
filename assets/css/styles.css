@@ -81,6 +81,8 @@ a:hover {
 /* 页脚样式 */
 footer {
     border-top: 1px solid rgba(0, 0, 0, 0.2);
+    background-color: #f8f8f8;
+    color: #333;
     padding-top: 10px;
     margin-top: 20px;
     text-align: center;
