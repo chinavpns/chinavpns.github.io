@@ -67,7 +67,7 @@ footer {
     margin-top: 20px;
     font-size: 14px;
     color: #666;
-    border-top: 1px solid rgba(0, 0, 0, 0.2); /* 添加顶部灰线 */
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 a {
@@ -79,10 +79,15 @@ a:hover {
     text-decoration: underline;
 }
 
-/* 修复锚点导航遮挡问题 */
 :target::before {
     content: '';
     display: block;
-    height: 100px; /* 调整高度与页眉一致 */
-    margin-top: -100px; /* 偏移与高度一致 */
+    height: 100px;
+    margin-top: -100px;
+}
+
+.nav {
+    border-left: 2px solid #ccc;
+    padding-left: 15px;
+    margin-left: 0;
 }
