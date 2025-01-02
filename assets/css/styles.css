@@ -67,13 +67,22 @@ footer {
     margin-top: 20px;
     font-size: 14px;
     color: #666;
+    border-top: 1px solid rgba(0, 0, 0, 0.2); /* 添加顶部灰线 */
 }
 
 a {
-  color: #0969DA;
-  text-decoration: underline;
+    color: #0969DA;
+    text-decoration: underline;
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
+}
+
+/* 修复锚点导航遮挡问题 */
+:target::before {
+    content: '';
+    display: block;
+    height: 100px; /* 调整高度与页眉一致 */
+    margin-top: -100px; /* 偏移与高度一致 */
 }
