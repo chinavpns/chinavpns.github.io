@@ -1,4 +1,10 @@
-/* 这是您的原始代码，无需改动的部分 */
+/* 全局样式重置 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: Arial, sans-serif;
     font-size: 18px;
@@ -6,6 +12,7 @@ body {
     color: #333;
 }
 
+/* 页眉样式 */
 header nav {
     background-color: #fafafa;
     padding: 15px 0;
@@ -40,16 +47,19 @@ header nav ul.nav li a:hover {
     background-color: rgba(0, 0, 0, 0.05);
 }
 
+/* 主内容样式 */
 main {
     max-width: 1048px;
     margin: 80px auto 30px; /* 避免被固定页眉遮住 */
     padding: 0 20px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #333;
+/* 仅文章标题居中 */
+main h1.article-title {
+    text-align: center;
     margin-top: 30px;
     margin-bottom: 15px;
+    color: #333;
     line-height: 1.2;
 }
 
@@ -111,12 +121,18 @@ table th, table td {
     text-align: left;
 }
 
-/* 新增的页脚灰线代码 */
+/* 页脚样式 */
 footer {
     border-top: 1px solid rgba(0, 0, 0, 0.2); /* 添加顶部灰色分隔线 */
+    background-color: #f8f8f8;
+    color: #333;
+    padding: 20px 0;
+    text-align: center; /* 居中文案 */
+    margin-top: 40px;
+    font-size: 14px; /* 调整字体大小 */
 }
 
-/* 新增的修复锚点跳转问题的代码 */
+/* 修复锚点导航遮挡问题 */
 :target::before {
     content: '';
     display: block;
