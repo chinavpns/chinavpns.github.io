@@ -85,9 +85,3 @@ a:hover {
     height: 100px;
     margin-top: -100px;
 }
-
-.nav {
-    border-left: 2px solid #ccc;
-    padding-left: 15px;
-    margin-left: 0;
-}
