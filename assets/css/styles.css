@@ -44,58 +44,87 @@ header nav ul.nav li a:hover {
 main {
     max-width: 1048px;
     margin: 90px auto 30px;
+    padding: 0 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    line-height: 1.2;
+    scroll-margin-top: 80px; /* 修复锚点导航遮挡问题 */
+}
+
+p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    margin-bottom: 20px;
+    padding-left: 40px;
+}
+
+code {
+    background-color: #f5f5f5;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+pre code {
+    display: block;
     padding: 20px;
-    background-color: #ffffff;
-    line-height: 1.8;
+    overflow-x: auto;
+}
+
+blockquote {
+    border-left: 4px solid #e0e0e0;
+    padding-left: 20px;
+    color: #666;
+    margin: 20px 0;
 }
 
 img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 20px auto;
+    margin: 20px 0;
 }
 
-h1 {
-    text-align: center;
-    font-size: 2.5em;
+table {
+    width: 100%;
+    border-collapse: collapse;
     margin-bottom: 20px;
 }
 
-footer {
-    text-align: center;
-    margin-top: 20px;
-    font-size: 14px;
-    color: #666;
+table th, table td {
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    text-align: left;
 }
 
-a {
-  color: #0969DA;
-  text-decoration: underline;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* 页脚样式 */
 footer {
     border-top: 1px solid rgba(0, 0, 0, 0.2);
     background-color: #f8f8f8;
     color: #333;
-    padding-top: 10px;
-    margin-top: 20px;
+    padding: 20px 0;
     text-align: center;
+    margin-top: 40px;
 }
 
-/* 修复锚点导航遮挡问题 */
 :target::before {
     content: '';
     display: block;
-    height: 80px; /* 调整为固定页眉的实际高度 */
+    height: 80px;
     margin-top: -80px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    scroll-margin-top: 80px; /* 与页眉高度一致 */
 }
