@@ -1,3 +1,10 @@
+/* 全局样式重置 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: Arial, sans-serif;
     font-size: 18px;
@@ -7,6 +14,7 @@ body {
     color: #333;
 }
 
+/* 页眉样式 */
 header nav {
     background-color: #fafafa;
     padding: 25px 0;
@@ -41,6 +49,7 @@ header nav ul.nav li a:hover {
     background-color: rgba(0, 0, 0, 0.05);
 }
 
+/* 主内容样式 */
 main {
     max-width: 1048px;
     margin: 90px auto 30px;
@@ -113,6 +122,7 @@ table th, table td {
     text-align: left;
 }
 
+/* 页脚样式 */
 footer {
     border-top: 1px solid rgba(0, 0, 0, 0.2);
     background-color: #f8f8f8;
@@ -122,6 +132,7 @@ footer {
     margin-top: 40px;
 }
 
+/* 修复锚点导航遮挡问题 */
 :target::before {
     content: '';
     display: block;
