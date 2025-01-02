@@ -86,3 +86,9 @@ a:hover {
     height: 100px; /* 调整高度与页眉一致 */
     margin-top: -100px; /* 偏移与高度一致 */
 }
+
+.nav {
+    border-left: 2px solid #ccc; /* 添加竖线，颜色为浅灰色 */
+    padding-left: 15px; /* 为导航文字留出间距 */
+    margin-left: 0; /* 防止导航整体偏移 */
+}
