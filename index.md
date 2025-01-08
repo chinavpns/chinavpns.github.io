@@ -6,7 +6,7 @@ description: 科学上网指南：2025年最好用的翻墙VPN和翻墙软件推
 
 # 科学上网指南：2025年最好用的翻墙软件和翻墙VPN推荐
 
-<p align="center">最近更新于：2025年1月2日</p>
+<p align="center">最近更新于：2025年1月8日</p>
 
 ![科学上网指南：最好用的翻墙软件和翻墙VPN推荐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B.png)
 
