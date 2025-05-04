@@ -1,6 +1,6 @@
 # <p align="center">中国VPN推荐：2025年最好用的VPN排行</p>
 
-<p align="center">最近更新于：2025年3月13日</p>
+<p align="center">最近更新于：2025年5月4日</p>
 
 ![中国VPN推荐：2025年最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90.png)
 
@@ -770,7 +770,7 @@ Hotspot Shield是一款全球知名的VPN服务，拥有超过3200台服务器�
 
 * 为什么需要远离它：熊猫VPN因运营不稳定而跑路，且其安全性和服务保障较差。
 
-### 请远离的国内VPN排行（二）：老王VPN
+### 请远离的国内VPN排行（二）：<a href="https://github.com/chinavpns/wangvpn">老王VPN</a>
 
 ![请远离的国内VPN排行（二）：老王VPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E8%80%81%E7%8E%8BVPN%20Banner.jpg)
 
@@ -784,7 +784,7 @@ Hotspot Shield是一款全球知名的VPN服务，拥有超过3200台服务器�
 
 * 为什么需要远离它：老王VPN存在钓鱼嫌疑，且通过广告和信息收集盈利，安全性和稳定性较差。
 
-### 请远离的国内VPN排行（三）：快连VPN
+### 请远离的国内VPN排行（三）：<a href="https://github.com/chinavpns/letsvpn">快连VPN</a>
 
 ![请远离的国内VPN排行（三）：快连VPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E5%BF%AB%E8%BF%9EVPN%20Banner.jpg)
 
