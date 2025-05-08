@@ -249,17 +249,19 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛，是全球顶级
 
 作为最顶级的翻墙VPN，ExpressVPN几乎兼容市面上所有常见设备，而且还为Windows、MacOS、Android、iOS等系统提供了专用APP客户端，所以在中国下载安装ExpressVPN非常方便。
 
-如果你使用Windows或MacOS电脑，只需打开ExpressVPN官网，找到对应的APP客户端，然后按照系统提示下载安装即可。整个过程很简单，基本不会遇到什么问题。
+* 如果你使用Windows或MacOS电脑，只需打开ExpressVPN官网，找到对应的APP客户端，然后按照系统提示下载安装即可。整个过程很简单，基本不会遇到什么问题。
 
-如果你用的是iPhone或iPad等iOS设备，那么你需要先获取一个美区Apple ID账号，因为中国区App Store已经下架了所有VPN应用。你可以通过"<a href="https://github.com/chinavpns/iosvpn.github.io">iPhone翻墙</a>"一文中提供的教程快速获取美区Apple ID账号，然后使用该账号登录App Store，并搜索下载ExpressVPN iOS客户端。
+* 如果你用的是iPhone或iPad等iOS设备，那么你需要先获取一个美区Apple ID账号，因为中国区App Store已经下架了所有VPN应用。你可以通过"<a href="https://github.com/chinavpns/iosvpn.github.io">iPhone翻墙</a>"一文中提供的教程快速获取美区Apple ID账号，然后使用该账号登录App Store，并搜索下载ExpressVPN iOS客户端。
 
-如果你是安卓用户，可以直接通过ExpressVPN官网下载Android APK安装包，或者通过Google Play商店下载ExpressVPN安卓客户端。整个过程也比较简单，基本不会遇到什么问题。
+* 如果你是安卓用户，可以直接通过ExpressVPN官网下载Android APK安装包，或者通过Google Play商店下载ExpressVPN安卓客户端。整个过程也比较简单，基本不会遇到什么问题。
 
 此外，ExpressVPN还能完美兼容路由器、游戏机、智能电视等设备。在路由器上安装ExpressVPN可以让所有连接该路由器的设备都能自动翻墙，非常方便。想了解更多详细教程，请查看：<a href="https://github.com/chinavpns/expressvpn">ExpressVPN中国评测</a>。
 
 #### ExpressVPN中国使用小技巧
 
-当你按照以上教程完成ExpressVPN账号购买、客户端下载安装之后，接下来就可以正式开始使用ExpressVPN了。对于中国大陆新手用户而言，最好选择ExpressVPN官方推荐的VPN服务器线路，因为这些服务器都是经过ExpressVPN特殊优化处理过的，可以更好地混淆和伪装用户流量，从而绕过防火长城的检测和封锁。此外，在全年的大多数时间里，请优先选择ExpressVPN自主研发的Lightway协议，或者是OpenVPN协议。而在ExpressVPN无法连接的时候，则可以尝试其它的VPN协议和物理距离较远的服务器节点。
+对于中国大陆新手用户而言，最好选择ExpressVPN官方推荐的VPN服务器线路，因为这些服务器都是经过ExpressVPN特殊优化处理过的，可以更好地混淆和伪装用户流量，从而绕过防火长城的检测和封锁。
+
+此外，在全年的大多数时间里，请优先选择ExpressVPN自主研发的Lightway协议，或者是OpenVPN协议。而在ExpressVPN无法连接的时候，则可以尝试其它的VPN协议和物理距离较远的服务器节点。
 
 另外，由于防火长城会经常更新，ExpressVPN也会时常更新其APP客户端以应对防火长城的封锁，所以大家记得定期更新APP客户端，以确保享受到最佳的翻墙体验。
 
@@ -267,7 +269,7 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛，是全球顶级
 
 #### 如何持续享受ExpressVPN最新优惠折扣？
 
-ExpressVPN的最新优惠是：购买2年套餐，可额外获赠6个月服务，平均每月仅需4.99美元。这个优惠折扣仅针对首次购买ExpressVPN的新用户，老用户则无法享受。如果你的ExpressVPN套餐到期后，想继续享受这一优惠，可以点击本文下方ExpressVPN优惠链接进入官网，然后使用一个全新的邮箱注册新账号，这样就能再次享受"买2年送6个月"的优惠了。
+ExpressVPN的最新优惠是：现在购买其2年套餐，可额外获赠6个月服务，平均每月仅需4.99美元。这个优惠折扣仅针对首次购买ExpressVPN的新用户，老用户则无法享受。如果你的ExpressVPN套餐到期后，想继续享受这一优惠，可以点击本文下方ExpressVPN优惠链接进入官网，然后使用一个全新的邮箱注册新账号，这样就能再次享受"买2年送6个月"的优惠了。
 
 <p align="center"><a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN（限时钜惠）</a></p>
 
