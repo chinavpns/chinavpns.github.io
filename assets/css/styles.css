@@ -87,14 +87,14 @@ a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #0969DA; /* 使用与您链接颜色相同的蓝色，保持一致性 */
+    border-left: 4px solid #cccccc; /* 改为灰色竖线 */
     padding-left: 15px;
     margin-left: 0;
     margin-right: 0;
     color: #555;
-    background-color: #f8f8f8; /* 浅灰色背景，让引用更加突出 */
+    background-color: #f8f8f8;
     padding: 10px 15px;
-    border-radius: 3px; /* 稍微圆角处理 */
+    border-radius: 3px;
 }
 
 blockquote p {
