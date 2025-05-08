@@ -243,7 +243,7 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛，是全球顶级
 
 ![科学上网指南，购买ExpressVPN帐号第三步：输入电子邮箱，并选择信用卡或者PayPal进行支付。](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-ExpressVPN-3.png)
 
-注意：由于ExpressVPN目前不支持支付宝或微信等付款方式。如果你没有信用卡也没有PayPal账号，则可以考虑选择StrongVPN，它支持使用支付宝支付订阅费用。
+注意：由于ExpressVPN目前不支持支付宝或微信等付款方式。如果你没有信用卡也没有PayPal账号，则可以考虑选择<a href="https://chinavpns.github.io/#%E7%BF%BB%E5%A2%99vpn%E6%8E%A8%E8%8D%90%E4%BA%8Cstrongvpn---%E8%80%81%E7%89%8Cvpn%E6%94%AF%E6%8C%81%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE">StrongVPN</a>，它支持使用支付宝支付订阅费用。
 
 #### 中国下载安装ExpressVPN教程
 
