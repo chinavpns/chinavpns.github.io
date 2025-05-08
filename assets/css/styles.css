@@ -85,3 +85,19 @@ a:hover {
     height: 100px;
     margin-top: -100px;
 }
+
+blockquote {
+    border-left: 4px solid #0969DA; /* 使用与您链接颜色相同的蓝色，保持一致性 */
+    padding-left: 15px;
+    margin-left: 0;
+    margin-right: 0;
+    color: #555;
+    background-color: #f8f8f8; /* 浅灰色背景，让引用更加突出 */
+    padding: 10px 15px;
+    border-radius: 3px; /* 稍微圆角处理 */
+}
+
+blockquote p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
