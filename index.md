@@ -48,7 +48,7 @@ PureVPN只能作为中国大陆翻墙的替补方案。虽然PureVPN在很多方
 <h3 id="4-如何挑选最佳的科学上网工具">4. <a href="#如何挑选最佳的科学上网工具">如何挑选最佳的科学上网工具？</a></h3>
 <h3 id="5-2025年最好用的翻墙软件和翻墙vpn推荐">5. <a href="#2025年最好用的翻墙软件和翻墙vpn推荐">2025年最好用的翻墙软件和翻墙VPN推荐</a></h3>
 <blockquote>	
-<h4 id="1-翻墙vpn推荐一expressvpn---翻墙非常稳定安全性高速度业内最快30天免费">1. <a href="#翻墙vpn推荐一expressvpn---翻墙非常稳定安全性高速度业内最快30天免费">翻墙VPN推荐（一）：ExpressVPN - 翻墙非常稳定，安全性高，速度业内最快，30天免费</a></h4>
+<h4 id="1-翻墙vpn推荐一expressvpn---翻墙非常稳定安全性高速度业内最快30天免费">1. <a href="#翻墙vpn推荐一expressvpn---翻墙非常稳定安全性高速度业内最快30天免费">翻墙VPN推荐（一）：ExpressVPN - 翻墙最稳定，速度最快，30天免费</a></h4>
 <h4 id="2-翻墙vpn推荐二strongvpn---老牌vpn支持支付宝付款">2. <a href="#翻墙vpn推荐二strongvpn---老牌vpn支持支付宝付款">翻墙VPN推荐（二）：StrongVPN - 老牌VPN，支持支付宝付款</a></h4>
 <h4 id="3-翻墙vpn推荐三purevpn---安全好用价格便宜211美金月">3. <a href="#翻墙vpn推荐三purevpn---安全好用价格便宜211美金月">翻墙VPN推荐（三）：PureVPN - 安全好用，价格便宜，2.11美金/月</a></h4>
 </blockquote>
