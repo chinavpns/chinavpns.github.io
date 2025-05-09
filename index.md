@@ -245,7 +245,7 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛，是全球顶级
 
 注意：由于ExpressVPN目前不支持支付宝或微信等付款方式。如果你没有信用卡也没有PayPal账号，则可以考虑选择<a href="https://chinavpns.github.io/#%E7%BF%BB%E5%A2%99vpn%E6%8E%A8%E8%8D%90%E4%BA%8Cstrongvpn---%E8%80%81%E7%89%8Cvpn%E6%94%AF%E6%8C%81%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE">StrongVPN</a>，它支持使用支付宝支付订阅费用。
 
-#### 中国下载安装ExpressVPN教程
+#### 2025年中国下载安装ExpressVPN教程
 
 作为最顶级的翻墙VPN，ExpressVPN几乎兼容市面上所有常见设备，而且还为Windows、MacOS、Android、iOS等系统提供了专用APP客户端，所以在中国下载安装ExpressVPN非常方便。
 
@@ -257,7 +257,7 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛，是全球顶级
 
 此外，ExpressVPN还能完美兼容路由器、游戏机、智能电视等设备。在路由器上安装ExpressVPN可以让所有连接该路由器的设备都能自动翻墙，非常方便。想了解更多详细教程，请查看：<a href="https://github.com/chinavpns/expressvpn">ExpressVPN中国评测</a>。
 
-#### ExpressVPN中国使用小技巧
+#### 2025年ExpressVPN中国使用小技巧
 
 * 对于中国大陆新手用户而言，最好选择ExpressVPN官方推荐的VPN服务器线路，因为这些服务器都是经过ExpressVPN特殊优化处理过的，可以更好地混淆和伪装用户流量，从而绕过防火长城的检测和封锁。
 
