@@ -315,11 +315,19 @@ StrongVPN的官网界面可能不如ExpressVPN那么精美，但其购买流程�
 
 第一步：打开StrongVPN官网，点击首页上的"Start Now"按钮。
 
+![科学上网指南，购买StrongVPN帐号第一步：打开StrongVPN官网，点击首页上的"Start Now"按钮。](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-StrongVPN-1.png)
+
 第二步：选择你心仪的套餐，并点击"Select This Plan"按钮。
+
+![科学上网指南，购买StrongVPN帐号第二步：选择你心仪的套餐，并点击"Select This Plan"按钮。](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-StrongVPN-2.png)
 
 第三步：填写电子邮箱，然后选择"支付宝"并按系统提示完成支付。
 
+![科学上网指南，购买StrongVPN帐号第三步：填写电子邮箱，然后选择"支付宝"并按系统提示完成支付。](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-StrongVPN-3.png)
+
 OK，当付款成功后，再回到StrongVPN官网，根据你的设备类型下载相应的客户端app就行了。StrongVPN支持Windows、MacOS、iOS、Android等主流平台，甚至可以直接配置在路由器上。iPhone和iPad用户可以参考"ExpressVPN iOS客户端下载"的方法来获取StrongVPN的iOS客户端。
+
+![科学上网指南，下载安装StrongVPN客户端教程](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-StrongVPN-4.png)
 
 最后我们需要提醒大家的是，StrongVPN采用的是全局模式，一旦连接成功，你所有的网络流量都会通过VPN服务器。StrongVPN支持多种协议，包括L2TP、SSTP、OpenVPN(UDP/TCP)、IPSec、IKEv2和WireGuard等。对中国大陆用户来说，我们推荐优先选择OpenVPN或WireGuard协议。如果你在使用StrongVPN的过程中遇到任何问题，请第一时间联系他们的在线客服获取帮助。
 
