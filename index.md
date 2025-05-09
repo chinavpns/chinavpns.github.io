@@ -377,7 +377,7 @@ Surfshark成立于2018年，算是VPN行业中的一匹黑马。尽管成立时�
 
 总的来说，尽管Surfshark近年来在敏感时期的翻墙稳定性有所下降，但在非敏感时期的表现依然值得肯定。其不限制设备数量、价格实惠以及优秀的隐私保护功能，使其在众多翻墙VPN中脱颖而出。对于需要兼顾多设备连接、预算有限且希望获得稳定翻墙体验的用户而言，Surfshark仍然是一款值得尝试的翻墙VPN。
 
-<p align="center"><a href="https://wallvpn.com/go/surfsharkvpn/" rel="nofollow">立即获取Surfshark</a>或者<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN（30天免费）</a></p>
+<p align="center"><a href="https://wallvpn.com/go/surfsharkvpn/" rel="nofollow">立即获取Surfshark</a>或者<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN(30天免费)</a></p>
 
 ****
 
@@ -399,7 +399,7 @@ NordVPN曾是VPN行业的领军者，在中国市场一度表现非常出色。�
 
 总得来说，尽管NordVPN在中国大陆的翻墙稳定性有所下降，但对于技术熟练且注重隐私保护的用户来说，它依然是一款非常值得选择的VPN服务。凭借其强大的安全功能、广泛的服务器覆盖、良好的设备兼容性以及合理的价格，NordVPN在国际VPN市场中依旧占据重要地位。如果你需要一款兼顾速度、安全性和隐私保护的VPN，并且对手动配置VPN感到得心应手，那么NordVPN将是你的理想选择。
 
-<p align="center"><a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">立即获取NordVPN</a>或者<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN（30天免费）</a></p>
+<p align="center"><a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">立即获取NordVPN</a>或者<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN(30天免费)</a></p>
 
 ****
 
@@ -419,7 +419,7 @@ AstrillVPN在中国的翻墙表现非常稳定，几乎可与ExpressVPN相媲美
 
 总的来说，对于预算充足、注重翻墙稳定性且具备一定使用经验的用户，AstrillVPN是一个值得信赖的选择。然而，对于大多数普通用户而言，ExpressVPN无论是在性价比、易用性还是综合性能方面都更具优势，因此我们更推荐ExpressVPN作为更全面的解决方案。
 
-<p align="center"><a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN</a></p>
+<p align="center"><a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN(30天免费)</a></p>
 
 ****
 
