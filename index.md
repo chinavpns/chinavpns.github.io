@@ -190,11 +190,9 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛，是全球顶级
 
 作为最顶级的翻墙VPN，ExpressVPN几乎兼容市面上所有常见设备，而且还为Windows、MacOS、Android、iOS等系统提供了专用APP客户端，所以在中国下载安装ExpressVPN非常方便。
 
-* 如果你使用Windows或MacOS电脑，只需打开<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN官网</a>，找到对应的APP客户端，然后按照系统提示下载安装即可。整个过程很简单，基本不会遇到什么问题。
+* 如果你使用的是Windows、MacOS、Android等设备，只需<a href="https://wallvpn.com/go/expressvpn/">打开ExpressVPN官网</a>，找到对应的APP客户端，然后按照系统提示下载安装即可。整个过程很简单，基本不会遇到什么问题。当然，Android设备用户也可以通过Google Play商店下载ExpressVPN的Android应用。
 
-* 如果你用的是iPhone或iPad等iOS设备，那么你需要先获取一个美区Apple ID账号，因为中国区App Store已经下架了所有VPN应用。你可以通过"<a href="https://github.com/chinavpns/iosvpn.github.io">iPhone翻墙</a>"一文中提供的教程快速获取美区Apple ID账号，然后使用该账号登录App Store，并搜索下载ExpressVPN iOS客户端。
-
-* 如果你是安卓用户，可以直接通过ExpressVPN官网下载Android APK安装包，或者通过Google Play商店下载ExpressVPN安卓客户端。整个过程也比较简单，基本不会遇到什么问题。
+* 如果你用的是iPhone或iPad等iOS设备，那么你需要先获取一个美区Apple ID账号，因为中国区App Store已经下架了所有VPN应用。你可以通过"<a href="https://nf.video/BTgSc">银河录像局</a>"这个平台购买一个现成的美区Apple ID账号，然后使用该账号登录App Store，并搜索下载ExpressVPN iOS客户端。注意：银河录像局是一家专业提供外区Apple ID服务的平台，每个美区Apple ID售价仅为人民币20元，同时提供24小时在线客服支持和30天质保服务，而且该美区Apple ID可长期稳定使用，非常适合用于下载VPN软件、Telegram等应用。若想查看更多关于购买美区Apple ID账号的操作步骤，请访问"<a href="https://github.com/chinavpns/iosvpn.github.io">iOS翻墙教程</a>"一文。
 
 此外，ExpressVPN还能完美兼容路由器、游戏机、智能电视等设备。在路由器上安装ExpressVPN可以让所有连接该路由器的设备都能自动翻墙，非常方便。想了解更多详细教程，请查看：<a href="https://github.com/chinavpns/expressvpn">ExpressVPN中国评测</a>。
 
