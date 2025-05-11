@@ -264,7 +264,9 @@ StrongVPN的官网界面可能不如ExpressVPN那么精美，但其购买流程�
 
 ![科学上网指南，购买StrongVPN帐号第三步：填写电子邮箱，然后选择"支付宝"并按系统提示完成支付。](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-StrongVPN-3.png)
 
-OK，当付款成功后，再回到StrongVPN官网，根据你的设备类型下载相应的客户端app就行了。StrongVPN支持Windows、MacOS、iOS、Android等主流平台，甚至可以直接配置在路由器上。iPhone和iPad用户可以参考"<a href="https://chinavpns.github.io/#2025年中国下载安装expressvpn教程">ExpressVPN iOS客户端下载</a>"的方法来获取StrongVPN的iOS客户端。
+OK，当你完成付款之后，下载并安装StrongVPN客户端，使用你的账号密码登录，选择一个服务器节点连接，之后就可以自由访问国外所有网站了。若想了解更多关于StrongVPN的评测信息，请查看：<a href="https://github.com/chinavpns/strongvpn">StrongVPN中国评测</a>。
+
+注意：StrongVPN也为Windows、MacOS、iOS、Android等主流设备提供了专用APP客户端。如果你使用Windows、MacOS、Android等设备，只需<a href="https://wallvpn.com/go/strong-vpn/">打开StrongVPN官网</a>，然后直接下载对应的APP客户端即可，非常简单。如果你使用iPhone或iPad设备，那么需要先获取一个美区Apple ID帐号，然后才可以通过App Store商店下载StrongVPN iOS客户端。中国用户获取美区Apple ID帐号的方法请查看：<a href="https://chinavpns.github.io/#2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85expressvpn%E6%95%99%E7%A8%8B">ExpressVPN中国下载教程！</a>
 
 ![科学上网指南，下载安装StrongVPN客户端教程](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-StrongVPN-4.png)
 
