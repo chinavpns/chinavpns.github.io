@@ -393,7 +393,7 @@ AstrillVPN在中国的翻墙表现非常稳定，几乎可与ExpressVPN相媲美
 
 * 二、娱乐与学习
 
-在娱乐方面，大陆用户可以通过翻墙软件访问<a href="https://github.com/chinavpns/youtube-download">YouTube</a>观看全球最新视频内容，也可以观看Netflix、Disney+、HBO Max等<a href="https://github.com/chinavpns/video-site">国外视频网站</a>上的热门剧集和电影，或者在Spotify、Apple Music上聆听全球音乐。在学习方面，翻墙软件让大陆用户能够进入Coursera、edX、Khan Academy等知名在线学习平台，学习世界顶尖大学的课程。此外，用户还可以轻松访问维基百科、TED等知识分享平台，获取更全面、更深入的信息，拓宽视野，提升个人能力。
+在娱乐方面，大陆用户可以通过翻墙软件访问<a href="https://github.com/chinavpns/youtube-download">YouTube</a>观看全球最新视频内容，也可以观看Netflix、Hulu、HBO等<a href="https://github.com/chinavpns/video-site">国外视频网站</a>上的热门剧集和电影，或者在Spotify、Apple Music上聆听全球音乐。在学习方面，翻墙软件让大陆用户能够进入Coursera、edX、Khan Academy等知名在线学习平台，学习世界顶尖大学的课程。此外，用户还可以轻松访问维基百科、TED等知识分享平台，获取更全面、更深入的信息，拓宽视野，提升个人能力。
 
 * 三、加速海外游戏
 
