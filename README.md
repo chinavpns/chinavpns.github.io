@@ -840,8 +840,6 @@ Hotspot Shield是一款全球知名的VPN服务，拥有超过3200台服务器�
 
 * <a href="https://chinavpns.github.io/">科学上网指南</a>：详细介绍如何科学上网，并推荐几款目前市面上最出色的<a href="https://chinavpns.github.io/">翻墙VPN</a>和<a href="https://chinavpns.github.io/">翻墙软件</a>。
 
-* <a href="https://github.com/chinavpns/chinavpns.github.io">中国VPN排行</a>：基于大陆实测后，精选了几款最好用的<a href="https://github.com/chinavpns/chinavpns.github.io">国内VPN</a>，可为中国用户提供稳定翻墙服务。
-
 * <a href="https://github.com/chinavpns/vpnintochina">回国VPN推荐</a>：海外华人如何<a href="https://github.com/chinavpns/vpnintochina">翻墙回国</a>获取大陆IP并访问国内的腾讯视频和网易云音乐等平台。
 
 * <a href="https://github.com/chinavpns/pcvpn.github.io">电脑VPN推荐</a>：详细介绍目前最有效的<a href="https://github.com/chinavpns/pcvpn.github.io">电脑翻墙</a>方法，并推荐几款中国最好用的<a href="https://github.com/chinavpns/pcvpn.github.io">PC端VPN</a>。
