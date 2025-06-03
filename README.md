@@ -257,7 +257,7 @@ Surfshark成立于2018年，虽然是VPN领域里的“新秀”，但一上线�
 
 <blockquote>
 
-注意：如果中国大陆用户想要在苹果App Store下载Shadowrocket（俗称“小火箭”）客户端，必须先拥有一个美区Apple ID账号。关于如何获取美区Apple ID账号，请参考《购买美区Apple ID账号教程》。
+注意：如果中国大陆用户想要在苹果App Store下载Shadowrocket（俗称“小火箭”）客户端，必须先拥有一个美区Apple ID账号。关于如何获取美区Apple ID账号，请参考《<a href="https://github.com/chinavpns/chinavpns.github.io?tab=readme-ov-file#%E8%8B%B9%E6%9E%9Cios%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDexpressvpn%E5%AE%A2%E6%88%B7%E7%AB%AF">购买美区Apple ID账号教程</a>》。
 
 </blockquote>
 
