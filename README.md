@@ -74,6 +74,8 @@ ExpressVPN的客户端软件设计非常人性化，支持Windows、MacOS、iOS�
 
 **<p align="center"><a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取ExpressVPN，30天免费</a></p>**
 
+****
+
 ### 中国用户如何购买和使用ExpressVPN？
 
 ExpressVPN是一款成熟且易用的VPN，无论是购买账号，还是下载安装和使用，整个流程都十分简单。接下来，我们将为大家详细介绍，在中国如何购买、下载和安装ExpressVPN，帮助你顺利翻墙，访问那些被封锁的海外网站。
@@ -94,7 +96,7 @@ ExpressVPN提供三种订阅时长：1个月、1年和2年。通常来说，2年
 
 #### 第三步：输入电子邮箱注册，并按照系统提示完成支付。
 
-在ExpressVPN的套餐选择页面之后，系统会要求你输入一个有效的电子邮箱进行注册。建议使用Gmail、Outlook等国外邮箱，避免使用国内的QQ、网易等邮箱，以确保能够顺利接收ExpressVPN的相关邮件。ExpressVPN支持多种付款方式，包括Visa、MasterCard、PayPal和比特币等。选择适合你的支付方式，并按照页面提示完成支付。当支付成功后，你会收到一封包含账户和登录信息的确认邮件。
+在ExpressVPN的套餐选择页面，系统会要求你输入一个有效的电子邮箱进行注册。建议使用Gmail、Outlook等国外邮箱，避免使用国内的QQ、网易等邮箱，以确保能够顺利接收ExpressVPN的相关邮件。ExpressVPN支持多种付款方式，包括Visa、MasterCard、PayPal和比特币等。选择适合你的支付方式，并按照页面提示完成支付。当支付成功后，你会收到一封包含账户和登录信息的确认邮件。
 
 ![第三步：输入电子邮箱注册，并按照系统提示完成支付](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-3.jpg)
 
