@@ -557,61 +557,61 @@ IPVanish拥有1400多台服务器，分布在75个国家，技术配置看起来
 
 VyprVPN由Golden Frog公司运营，拥有700多台服务器，分布在70个国家，并且使用自家开发的Chameleon协议来对抗网络审查。这个协议在技术上确实有些创新，能够混淆VPN流量特征，理论上应该可以应对防火长城的检测。然而，现实很残酷，VyprVPN在中国的表现让人大失所望。我之前用过一段时间，连接成功率非常低，即使偶尔能够连上，也会频繁掉线，根本没法正常使用。更要命的是，这家公司对中国市场似乎并不重视，技术更新也跟不上防火长城的升级速度，现在基本上已经在中国完全不能用了。
 
-### 3，CyberGhost
+### 三、CyberGhost
 
 ![请远离的国外/国内VPN：CyberGhost](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/CyberGhost-Banner.jpg)
 
 CyberGhost算是老牌VPN了，拥有超过7000台服务器，覆盖90多个国家，隐私保护做得还行，也有严格的无日志政策。几年前，这个VPN在中国还能勉强使用，但现在情况完全不同了。我最近测试了一下，连接成功率接近于零，偶尔能连上的服务器速度也慢得要死，看个网页都要等半天。最主要的是，CyberGhost使用的协议和技术已经被防火长城完全识别了，而且他们显然没有针对中国市场做任何优化。它们的客服虽然24小时在线，但对中国的网络环境完全不了解，基本帮不上什么忙。
 
-### 4，Private Internet Access (PIA)
+### 四、Private Internet Access (PIA)
 
 ![请远离的国外/国内VPN：Private Internet Access](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/Private%20Internet%20Access-Banner.jpg)
 
 PIA在欧美市场口碑还不错，有3300多台服务器，分布在48个国家，隐私保护政策也比较严格。但是，这个VPN有个明显的问题，就是亚洲地区的服务器数量有限，而且针对中国的网络环境优化不足。我之前试用过一段时间，连接成功率很低，速度也不理想。最关键的是，PIA使用的协议和技术已经被防火长城有效识别，现在在中国基本上连不上。它们的客服态度还行，但对中国的技术问题束手无策，只能建议你试试不同的服务器，实际效果都不好。
 
-### 5，Hotspot Shield
+### 五、Hotspot Shield
 
 ![请远离的国外/国内VPN：Hotspot Shield](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/Hotspot%20Shield-Banner.jpg)
 
 Hotspot Shield也是以免费VPN而闻名，免费版本每天提供500MB流量，仅支持1台设备连接，只能连接美国服务器。Hotspot Shield的付费版拥有3200多台服务器，覆盖80个国家，使用自家的Catapult Hydra协议。但这个VPN存在严重的隐私问题，曾被曝出在免费版本中插入广告跟踪代码，收集用户数据并将其出售给广告商。Hotspot Shield免费版基本无法连接，付费版偶尔能连上，但速度非常慢，而且很快就会被封锁。更要命的是数据安全问题，使用这种VPN翻墙，等于把自己的上网记录直接交给广告商。
 
-### 6，ProtonVPN
+### 六、ProtonVPN
 
 ![请远离的国外/国内VPN：ProtonVPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ProtonVPN-Banner.jpg)
 
 ProtonVPN是由ProtonMail团队开发的VPN，因提供免费VPN服务而被国内VPN用户广泛熟知。不过，ProtonVPN的免费版只提供三个服务器位置（美国、荷兰和日本），仅允许一台设备同时连接，虽然不限流量，但速度受到限制。ProtonVPN的付费版本拥有1200多台服务器，分布在55个国家，采用AES-256加密，并实行严格的无日志政策。虽然ProtonVPN在隐私保护方面表现不错，但在中国几乎无法使用。我多次测试，无论是免费版还是付费版，ProtonVPN的连接成功率都为零。其主要原因是ProtonVPN采用的OpenVPN和IKEv2协议已被防火长城完全识别，而且他们没有针对中国市场开发任何混淆技术。ProtonVPN的客服虽然专业，但明确表示不支持中国用户，也不会为此提供技术优化。
 
-### 7，蓝灯VPN
+### 七、蓝灯VPN
 
 ![请远离的国外/国内VPN：蓝灯VPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E8%93%9D%E7%81%AFVPN%20Banner.jpg)
 
 蓝灯VPN曾经是国内最知名的免费翻墙软件，采用P2P网络技术，免费版本每月提供500MB流量，付费版则不限流量。它的工作原理是通过全球用户共享带宽来实现翻墙，支持Windows、Mac、Android和iOS平台。蓝灯曾经在中国很受欢迎，特别是免费版本吸引了大量用户。但现在情况完全不同，我最近测试发现，免费版本基本无法连接，即使偶尔连上，速度也极慢，500MB流量几分钟就用完了。蓝灯VPN的付费版稍微好一些，但连接稳定性很差，经常掉线。最大的问题是P2P技术本身的局限性，你的流量需要经过其他用户的设备中转，不仅速度不稳定，隐私安全也存在风险。而且现在防火长城已经能够有效识别和封锁蓝灯的P2P流量，基本上无法正常使用了。
 
-### 8，熊猫VPN
+### 八、熊猫VPN
 
 ![请远离的国外/国内VPN：熊猫VPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E7%86%8A%E7%8C%ABVPN%20Banner.jpg)
 
 熊猫VPN以前确实是国内最好的VPN之一，界面友好，连接稳定，价格也合理。我当时用得挺满意，还推荐给了不少朋友。但是好景不长，2022年的时候这家公司突然跑路，在线客服失联，用户的钱也无法追回。这件事给了我很深刻的教训，就是千万不能完全信任这些小公司的VPN服务。熊猫VPN公司跑路前没有任何预警，很多用户刚续费不久就遇到这种情况，损失很大。这也说明，选择大陆VPN时，公司的可靠性和背景同样重要。
 
-### 9.老王VPN
+### 九、老王VPN
 
 ![请远离的国外/国内VPN：老王VPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E8%80%81%E7%8E%8BVPN%20Banner.jpg)
 
 老王VPN是一款主要针对安卓设备的免费VPN软件，界面比较简单，操作也很容易上手，这也是它吸引了大量用户的原因之一。不过，这个VPN也有不少问题，最严重的还是安全性。老王VPN长期被怀疑存在钓鱼行为，很多安全专家都发出过警告，这个应用可能会收集用户的个人信息、浏览记录和设备数据。我之前试用过几次，发现用的过程中会不停弹出广告，严重影响体验，而且连接也不稳定，经常会突然掉线。更让人担心的是，有不少用户反映，使用老王VPN后出现了个人信息泄露的情况，比如社交媒体账号被盗，收到的垃圾邮件也变多了。现在，这个VPN在中国的翻墙能力基本已经失效，连接成功率几乎为零，就算偶尔连上了，网速也慢得几乎没法正常浏览网页。
 
-### 10，快连VPN
+### 十、快连VPN
 
 ![请远离的国外/国内VPN：快连VPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E5%BF%AB%E8%BF%9EVPN%20Banner.jpg)
 
 快连VPN在宣传中号称自己是“永远能连上的VPN”，还提供一天的免费试用，乍一看确实很有吸引力。它支持多个平台，包括Windows、Mac、iOS和Android，界面设计也比较现代。不过，实际使用后你会发现问题非常多。虽然偶尔可以连上服务器，但整体连接成功率很低。我多次测试，大多数时候都连不上服务器，即使更换不同的节点，结果也没有改善。即使偶尔能成功连接，网速也慢得让人难以接受，打开一个普通网页都要等很久，更别说看视频或下载文件了。此外，快连VPN被怀疑存在大规模的数据收集行为，很可能会把用户的浏览记录和个人信息等隐私数据出售给第三方广告商或其他机构，这对用户来说是巨大的安全隐患。而且快连VPN的客服几乎等于没有，遇到技术或账户问题时根本联系不上客服，用户只能干着急自己想办法。根据我最近的测试，快连VPN在中国的翻墙能力已经大不如前，能连上服务器都算运气好，基本无法指望它实现稳定翻墙。
 
-### 11，佛跳墙VPN
+### 十一、佛跳墙VPN
 
 ![请远离的国外/国内VPN：佛跳墙VPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E4%BD%9B%E8%B7%B3%E5%A2%99VPN%20Banner.jpg)
 
 佛跳墙VPN这个名字挺有意思，但实际体验却很糟糕。首先，这个VPN相关信息非常少，公司背景也不明确，让人很难信任。我试用过几次，连接成功率极低，基本上连不上。即使偶尔能连上，速度也慢到几乎无法正常使用。更让人担心的是安全性问题，有用户怀疑佛跳墙VPN存在钓鱼行为，可能会收集用户的个人信息。此外，佛跳墙VPN没有客服支持，遇到问题时完全没人处理。总的来说，佛跳墙VPN各方面都很不靠谱，强烈建议大家远离。
 
-### 12，光年VPN
+### 十二、光年VPN
 
 ![请远离的国外/国内VPN：光年VPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E5%85%89%E5%B9%B4VPN%20Banner.jpg)
 
