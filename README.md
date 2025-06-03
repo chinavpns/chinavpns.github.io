@@ -271,6 +271,8 @@ Surfshark成立于2018年，虽然是VPN领域里的“新秀”，但一上线�
 
 **<p align="center"><a href=https://wallvpn.com/go/v2aky/>立即获取艾可云</a></p>**
 
+****
+
 ## 我们为什么不推荐你使用国内VPN？
 
 很多新手在选择翻墙软件时，往往会被国内VPN软件所吸引。这些服务不仅价格低廉，还提供中文界面和中文客服，对中国大陆用户来说非常友好。但实际上，我们并不推荐使用国产VPN，下面我会从多个角度详细说明原因。
@@ -543,13 +545,13 @@ VPN的一些高级安全功能虽然能提供更好的保护，但也会影响�
 
 在选择最好用的中国VPN的时候，知道哪些能用固然重要，但知道哪些不能用，甚至哪些VPN有风险，可能更重要。市面上的VPN服务五花八门，有些看起来很专业，宣传得天花乱坠，但实际使用起来问题一大堆，有些甚至存在严重的安全隐患。今天就跟大家分享一下那些需要避开的国外和国内VPN软件，这份"黑名单"能帮你省下不少时间和金钱，更重要的是避免潜在的安全风险。
 
-### 1，IPVanish
+### 一、IPVanish
 
 ![请远离的国外/国内VPN：IPVanish](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/IPVanish-Banner.jpg)
 
 IPVanish拥有1400多台服务器，分布在75个国家，技术配置看起来不错，支持OpenVPN、IKEv2等主流协议。但这个VPN有个致命问题，就是之前被爆出记录用户日志的丑闻，虽然后来改了政策，但信任度已经大打折扣。在中国的使用体验更是糟糕透顶，连接稳定性极差。我试用的时候，基本上连不上，偶尔连上了也会很快掉线。而且这家公司明显不重视中国市场，服务器优化和协议更新都跟不上，现在在中国已经完全没法用了。
 
-### 2，VyprVPN
+### 二、VyprVPN
 
 ![请远离的国外/国内VPN：VyprVPN](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/VyprVPN-Banner.jpg)
 
