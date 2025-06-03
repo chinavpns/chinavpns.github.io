@@ -112,6 +112,18 @@ ExpressVPN支持多种操作系统，包括Windows、macOS、Android、iOS和Lin
 
 OK，按照以上步骤操作后，你就已经成功购买、下载并安装了ExpressVPN，现在可以随时随地翻墙上网。凭借强大的服务器网络和高度的隐私保护，ExpressVPN成为了中国用户的首选VPN工具。无论是观看受限的流媒体内容、访问被封锁的网站，还是保护个人隐私，ExpressVPN都能为你提供最佳体验。如果遇到问题或需要帮助，你可以随时联系ExpressVPN的24/7在线客服，确保使用过程中没有后顾之忧。
 
+### 苹果iOS用户如何下载ExpressVPN客户端？
+
+由于政策原因，中国区苹果App Store已经下架了所有与VPN相关的应用程序。中国大陆用户如果想要下载VPN APP客户端，必须先获取一个非中国区的苹果Apple ID账号，然后才能从App Store下载ExpressVPN等VPN的iOS客户端。
+
+目前，获取非中国区苹果Apple ID账号的方式有很多，但对于大多数普通用户来说，最简单且安全的方法是通过“<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>”这个专业第三方平台，直接购买一个现成的非中国区Apple ID账号。
+
+银河录像局成立于2019年，隶属于杭州崇宇信息科技有限公司，拥有浙ICP备2022036459号备案和ICP经营许可证（浙B2-20230847），是一个权威、安全、可靠的正规平台。银河录像局主要提供Netflix、HBO Max、Spotify、Disney+、YouTube等流媒体账号合租服务，以及ChatGPT、Claude、Midjourney、Grok等AI工具的合租服务。
+
+此外，银河录像局还提供美国、香港、日本、台湾、韩国、土耳其等地区的Apple ID账号。你只需花费15元至20元就可以获得一个完全属于你个人且可长期使用的非中国区Apple ID账号。通过这个账号，你不仅可以下载ExpressVPN iOS客户端，还可以下载其他在中国区App Store无法获取的应用程序。
+
+<p align="center"><a href="https://wallvpn.com/go/nf-video/">立即访问银河录像局官网</a></p>
+
 ### ExpressVPN续费时如何继续享受最新优惠？
 
 如果你在使用ExpressVPN后想要续费年套餐，直接续费或在官网操作通常无法享受“买两年送六个月”的优惠。为了继续获得ExpressVPN的最新优惠，建议通过本页面的专属优惠链接，使用新的邮箱注册一个新账号。具体操作步骤如下：
