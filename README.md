@@ -316,7 +316,7 @@ Surfshark成立于2018年，虽然是VPN领域里的“新秀”，但一上线�
 * Hulu：美国知名流媒体服务，美剧资源特别丰富，很多热播剧集都能第一时间观看。
 * BBC iPlayer：英国广播公司的在线平台，提供高质量的纪录片、新闻节目和英剧资源。
 
-如果你想了解更多优质的国外视频网站，或者想获取这些网站的详细信息，请参阅：<a href="https://github.com/chinavpns/video-site">国外视频网站</a>。
+如果你想了解更多优质的国外视频网站及相关信息，请参考：<a href="https://github.com/chinavpns/video-site">国外视频网站</a>、<a href="https://github.com/chinavpns/youtube-download">YouTube视频下载</a>。
 
 **2，访问国外音乐网站**
 
