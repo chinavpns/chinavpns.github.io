@@ -187,6 +187,34 @@ StrongVPN的客户端软件也非常简单易用。无论是Windows、MacOS、iO
 
 **<p align="center"><a href="https://wallvpn.com/go/strong-vpn/" rel="nofollow">立即获取StrongVPN（支持支付宝付款）</a></p>**
 
+### 如何使用支付宝购买StrongVPN？
+
+StrongVPN是一款非常成熟的中国VPN软件，官网界面简洁直观。即使你是VPN新手，只需按照以下步骤操作，也能快速上手并使用这款功能强大的大陆VPN软件。
+
+#### 第一步：打开StrongVPN官网，并点击“Start Now”按钮。
+
+* StrongVPN官网：<a href="https://wallvpn.com/go/strong-vpn/">strongvpn.com</a>
+
+![第一步：打开StrongVPN官网，并点击“Start Now”按钮](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-1.png)
+
+#### 第二步：选择“Annual Plan”套餐，并点击“SELECT THIS PLAN”按钮。
+
+![第二步：选择“Annual Plan”套餐，并点击“SELECT THIS PLAN”按钮](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-2.png)
+
+#### 第三步：输入你的电子邮箱地址，并使用支付宝完成付款。
+
+![第三步：输入你的电子邮箱地址，并使用支付宝完成付款](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-3.png)
+
+### 如何下载StrongVPN APP客户端?
+
+StrongVPN兼容Windows、Mac、iOS、Android、Linux、Kodi、Chrome、路由器、Fire Stick、Fire TV、Nokia Maemo等多种设备和平台。你只需访问StrongVPN官网，选择适用于你的设备的APP客户端，按照提示进行下载安装即可，操作非常简单。
+
+![如何下载StrongVPN APP客户端](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-4.png)
+
+**小提示**：在Windows、Mac和Android等设备上下载安装StrongVPN非常方便，没什么好说的。但对于iOS用户，可能需要先获取一个海外Apple ID账号，才能正常下载StrongVPN的iOS客户端。关于如何获取海外Apple ID账号，请参考：<a href="https://github.com/chinavpns/chinavpns.github.io#%E8%8B%B9%E6%9E%9Cios%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDexpressvpn%E5%AE%A2%E6%88%B7%E7%AB%AF">VPN iOS APP下载教程</a>。
+
+**<p align="center"><a href="https://wallvpn.com/go/strong-vpn/" rel="nofollow">立即获取StrongVPN（支持支付宝付款）</a></p>**
+
 ****
 
 ### 中国VPN推荐（三）：<a href="https://wallvpn.com/go/purevpn/">PureVPN - 安全好用，价格便宜，2.11美金/月</a>
