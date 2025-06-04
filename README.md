@@ -58,6 +58,12 @@ OK，以上三款就是目前在中国大陆最好用的VPN软件。它们在翻
 
 ![ExpressVPN Banner：中国VPN推荐，最好用的VPN排行](https://chinavpns.github.io/image/ExpressVPN%20Banner.jpg)
 
+<blockquote>
+
+ExpressVPN绝对可以称得上是最好用的中国VPN软件，尤其是在iOS设备上的翻墙效果非常出色，可以甩出其他同类产品好几条街。此外，在中国大陆使用ExpressVPN时，可以将连接协议设置为默认的Automatic，当然也可以优先选择ExpressVPN自主研发的Lightway协议，或者尝试OpenVPN协议。如果在特殊时期遇到ExpressVPN不太好用的情况，除了尝试切换不同的VPN协议和服务器节点之外，也建议第一时间联系在线客服，获取备用服务器节点和翻墙方案。
+
+</blockquote>
+
 ExpressVPN作为VPN行业的标杆产品，在中国的翻墙表现可以说几乎无可挑剔。我从2018年开始使用ExpressVPN，这些年来不管防火长城如何升级，ExpressVPN总能在最短的时间内恢复服务。尤其是在每年春节、六月初、国庆节以及各类重大会议期间，当其他VPN纷纷“阵亡”的时候，ExpressVPN依旧能够保持相对稳定的连接。这背后的原因在于，ExpressVPN拥有业内最强大的技术团队。他们开发的Lightway协议，专门针对高审查环境做了优化，采用深度流量混淆技术，可以有效躲避GFW的深度包检测。更重要的是，**ExpressVPN在全球部署了3000多台服务器，分布在105个国家和地区**，即使部分服务器被封锁，也总有足够的备用线路可供切换。
 
 在连接速度方面，ExpressVPN在中国的表现同样相当出色。我在国内不同城市使用时，连接香港、日本、新加坡等亚洲服务器的延迟通常在50-80ms之间，下载速度可以达到本地带宽的70-80%。这个速度完全能够满足4K视频流媒体观看、在线游戏和大文件下载等高带宽需求。ExpressVPN的服务器都采用了10Gbps带宽接入，并且支持无限流量，无需担心流量限制。我经常用ExpressVPN观看Netflix 4K内容和YouTube高清视频，几乎感觉不到任何卡顿。值得一提的是，ExpressVPN还针对流媒体观看进行了专门优化，能够稳定解锁Netflix、Disney+、BBC iPlayer、Hulu等主流流媒体平台的地区限制内容。
