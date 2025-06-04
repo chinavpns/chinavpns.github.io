@@ -102,7 +102,7 @@ ExpressVPN提供三种订阅时长：1个月、1年和2年。通常来说，2年
 
 #### 第四步：下载ExpressVPN客户端，并按照提示完成安装。
 
-ExpressVPN支持多种操作系统，包括Windows、macOS、Android、iOS和Linux等。如果你使用的是PC端设备，只需打开ExpressVPN官网，便可直接下载对应的APP客户端。对于安卓设备用户，可以通过ExpressVPN官网下载安装包，或者通过Google Play应用商店下载安装APK文件。若你使用的是iOS设备，则需要先获取一个美区Apple ID账号，之后才能在苹果App Store中下载iOS客户端。当下载完ExpressVPN客户端后，只需按照系统提示一步步操作即可，整个过程非常简单快捷。
+ExpressVPN支持多种操作系统，包括Windows、macOS、Android、iOS和Linux等。如果你使用的是PC端设备，只需打开ExpressVPN官网，便可直接下载对应的APP客户端。对于安卓设备用户，可以通过ExpressVPN官网下载安装包，或者通过Google Play应用商店下载安装APK文件。如果你使用的是iOS设备，需要先参考本文下方的“<a href="https://github.com/chinavpns/chinavpns.github.io#%E8%8B%B9%E6%9E%9Cios%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDexpressvpn%E5%AE%A2%E6%88%B7%E7%AB%AF">iOS VPN下载教程</a>”获取一个美区Apple ID账号，之后才能在苹果App Store中下载iOS客户端。。当下载完成ExpressVPN客户端后，只需按照系统提示逐步操作即可完成安装，整个过程非常简单快捷。
 
 ![第四步：下载ExpressVPN客户端，并按照提示完成安装](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-4.jpg)
 
