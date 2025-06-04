@@ -28,13 +28,7 @@
 
 </blockquote>
 
-OK，以上三款就是目前在中国大陆最好用的VPN软件。它们在翻墙能力、安全性、兼容性、易用性、价格和客户支持等方面的综合表现都非常出色，而且还支持30天退款保证，不满意可以随时全额退款，大家可以放心购买使用。
-
-<blockquote>
-
-**小提示**：如果你身在中国大陆，使用的是苹果iOS设备，不知道如何下载VPN iOS客户端，可以查看本文下方的“<a href="https://github.com/chinavpns/chinavpns.github.io#%E8%8B%B9%E6%9E%9Cios%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDexpressvpn%E5%AE%A2%E6%88%B7%E7%AB%AF">下载 ExpressVPN iOS APP 客户端教程</a>”。
-
-</blockquote>
+OK，以上三款就是目前在中国大陆最好用的VPN软件。它们在翻墙能力、安全性、兼容性、易用性、价格和客户支持等方面的综合表现都非常出色，而且还支持30天退款保证，不满意可以随时全额退款，大家可以放心购买使用。**此外，如果你身在中国大陆，使用的是苹果iOS设备，不知道如何下载VPN iOS客户端，可以查看本文下方的“<a href="https://github.com/chinavpns/chinavpns.github.io#%E8%8B%B9%E6%9E%9Cios%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDexpressvpn%E5%AE%A2%E6%88%B7%E7%AB%AF">iOS VPN下载教程</a>”**。
 
 ## 在中国大陆好用的VPN为什么这么少？ 
 
