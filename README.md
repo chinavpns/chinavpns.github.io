@@ -6,7 +6,9 @@
 
 <blockquote>
 
-**重要提示**：本文推荐的中国大陆VPN是用于从国内翻墙到海外，访问Google、Facebook、YouTube、Netflix、ChatGPT等网站。如果你身处海外，想要从国外翻墙回大陆，访问腾讯视频、爱奇艺、网易云音乐、QQ音乐、抖音等国内平台，请查看：<a href="https://github.com/chinavpns/vpnintochina">回国VPN推荐</a>！
+**重要提示**：
+
+重要提示： 本文推荐的中国VPN，主要用于帮助大陆用户翻墙访问Google、Facebook、Telegram、YouTube、Netflix、ChatGPT等海外网站。如果你身在海外，想要从国外翻墙回国，访问腾讯视频、爱奇艺、网易云音乐、QQ音乐、抖音、王者荣耀等国内平台，请参考：<a href="https://github.com/chinavpns/vpnintochina">回国VPN推荐</a>！
 
 </blockquote>
 
