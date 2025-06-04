@@ -179,7 +179,7 @@ StrongVPN最让我欣赏的一点是它对国内VPN用户非常友好。首先�
 
 StrongVPN的客户端软件也非常简单易用。无论是Windows、MacOS、iOS还是Android版本，APP界面都简洁明了，操作十分直观。特别是移动端的App，界面设计符合国内用户的使用习惯，不像某些国外软件那样复杂。一键连接功能做得很好，新手用户几乎无需任何设置即可正常使用。客户端还内置自动重连功能，一旦网络断开会自动尝试重新连接，这在网络不稳定时非常实用。
 
-在价格方面，StrongVPN的性价比较高，年付套餐折合每月仅需3.97美元，年总计47.69美元，对于预算有限的用户来说是一个不错的选择。此外，StrongVPN经常推出促销活动，如果在活动期间购买，价格会更加优惠。另外，StrongVPN还提供30天退款保证，有任何不满意的都可以随时申请全额退款。
+在价格方面，StrongVPN的性价比较高，**年付套餐折合每月仅需3.97美元，年总计47.69美元**，对于预算有限的用户来说是一个不错的选择。此外，StrongVPN经常推出促销活动，如果在活动期间购买，价格会更加优惠。另外，StrongVPN还提供30天退款保证，有任何不满意的都可以随时申请全额退款。
 
 ![StrongVPN Price：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN%20Price.jpg)
 
