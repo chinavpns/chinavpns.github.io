@@ -60,7 +60,7 @@ OK，以上三款就是目前在中国大陆最好用的VPN软件。它们在翻
 
 <blockquote>
 
-ExpressVPN绝对可以称得上是最好用的中国VPN软件，尤其是在iOS设备上的翻墙效果非常出色，可以甩出其他同类产品好几条街。此外，在中国大陆使用ExpressVPN时，可以将连接协议设置为默认的Automatic，当然也可以优先选择ExpressVPN自主研发的Lightway协议，或者尝试OpenVPN协议。如果在特殊时期遇到ExpressVPN不太好用的情况，除了尝试切换不同的VPN协议和服务器节点之外，也建议第一时间联系在线客服，获取备用服务器节点和翻墙方案。
+**重要提示**：ExpressVPN绝对可以称得上是最好用的中国VPN软件，尤其是在iOS设备上的翻墙效果非常出色，可以甩出其他同类产品好几条街。此外，在中国大陆使用ExpressVPN时，可以将连接协议设置为默认的Automatic，当然也可以优先选择ExpressVPN自主研发的Lightway协议，或者尝试OpenVPN协议。如果在特殊时期遇到ExpressVPN不太好用的情况，除了尝试切换不同的VPN协议和服务器节点之外，也建议第一时间联系在线客服，获取备用服务器节点和翻墙方案。
 
 </blockquote>
 
