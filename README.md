@@ -265,7 +265,7 @@ Surfshark成立于2018年，虽然是VPN领域里的“新秀”，但一上线�
 
 ![NordVPN Banner：中国VPN推荐，最好用的VPN排行](https://chinavpns.github.io/image/nordvpn%20banner.jpg)
 
-在前些年，NordVPN一直稳居各大VPN推荐和VPN排行榜的首位。然而，近年来它在中国大陆的表现有所下降，目前只能通过手动配置才能正常使用。对于想在中国使用NordVPN的用户来说，这无疑增加了操作难度。NordVPN官方推荐的方法是：在Windows系统上通过OpenVPN GUI等第三方软件进行手动配置，或者在Mac和iOS设备上安装IKEv2证书。虽然这些步骤比直接用NordVPN原生客户端要麻烦不少，但实际测试下来，这些手动方案依然能够在中国实现较为稳定的连接。不过，这种较高的技术门槛使NordVPN更适合有一定技术能力、熟悉VPN配置的用户，而不是普通用户。
+在前些年，NordVPN一直稳居各大<a href="https://chinavpns.github.io/">VPN推荐</a>榜的首位。然而，近年来它在中国大陆的表现有所下降，目前只能通过手动配置才能正常使用。对于想在中国使用NordVPN的用户来说，这无疑增加了操作难度。NordVPN官方推荐的方法是：在Windows系统上通过OpenVPN GUI等第三方软件进行手动配置，或者在Mac和iOS设备上安装IKEv2证书。虽然这些步骤比直接用NordVPN原生客户端要麻烦不少，但实际测试下来，这些手动方案依然能够在中国实现较为稳定的连接。不过，这种较高的技术门槛使NordVPN更适合有一定技术能力、熟悉VPN配置的用户，而不是普通用户。
 
 虽然NordVPN的翻墙能力不如从前，但在其他方面依然有不少硬核优势。它自带的CyberSec功能，可以自动屏蔽广告、恶意链接和钓鱼网站，有效降低各类网络威胁，为你的上网体验多加了一层防护。另外，NordVPN的自动Kill Switch（网络锁）功能也很实用，一旦VPN意外断开，系统会立即切断网络，防止真实IP或敏感数据泄露，进一步保障隐私安全。在协议支持方面，NordVPN覆盖非常全面，包括主流的OpenVPN、IKEv2/IPsec，以及近年来口碑极佳的WireGuard协议。WireGuard不仅速度快，安全性也很突出，无论是日常浏览、看流媒体，还是做在线交易，都能保证高速和安全兼得。
 
