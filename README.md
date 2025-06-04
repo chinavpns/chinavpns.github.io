@@ -1,6 +1,6 @@
 # <p align="center">中国VPN推荐：2025年中国大陆最好用的VPN排行！</p>
 
-<p align="center">最近更新于：2025年6月3日</p>
+<p align="center">最近更新于：2025年6月4日</p>
 
 ![中国VPN推荐：2025年中国大陆最好用的VPN排行！](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90.png)
 
@@ -158,6 +158,12 @@ OK，按照以上步骤操作后，你已经成功购买、下载并安装了Exp
 ### 中国VPN推荐（二）：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 老牌VPN，3.97美金/月，支付支付宝付款</a>
 
 ![StrongVPN Banner：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN%20Banner.jpg)
+
+<blockquote>
+
+重要提示：中国大陆用户，我们建议你优先选择OpenVPN TCP协议（也可以尝试WireGuard协议），并确保Scramble功能已开启。此外，日本、韩国、美国等地区的节点通常连接速度较快，大家可以优先尝试这些地区的服务器节点。如果在特殊时期遇到StrongVPN无法使用的情况，可以尝试切换不同的VPN协议和服务器节点。同时，也可以通过StrongVPN官网右下角的“Help”聊天框联系24小时在线客服，获取在中国大陆可用的备用服务器节点和临时翻墙方案。
+
+</blockquote>
 
 StrongVPN成立于2005年，由Ziff Davis集团运营，总部位于美国加利福尼亚州洛杉矶，拥有近二十年的专业运营经验，品牌一直以稳定性和安全性著称。从2021年开始，我一直将StrongVPN作为备用VPN使用。尽管在翻墙的稳定性和连接速度方面不如ExpressVPN那么强大，但StrongVPN在中国大陆的全年可用率依然可以达到90%以上（如果对服务器节点没有特殊要求，全年实际可用率甚至会更高）。对于预算有限但希望拥有可靠翻墙工具的用户而言，StrongVPN绝对是一个不错的选择。
 
