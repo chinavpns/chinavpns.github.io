@@ -209,7 +209,7 @@ StrongVPN是一款非常成熟的中国VPN软件，官网界面简洁直观。�
 
 StrongVPN兼容Windows、Mac、iOS、Android、Linux、Kodi、Chrome、路由器、Fire Stick、Fire TV、Nokia Maemo等多种设备和平台。你只需访问StrongVPN官网，选择适用于你的设备的APP客户端，按照提示进行下载安装即可，操作非常简单。
 
-**小提示**：在Windows、Mac和Android等设备上下载安装StrongVPN非常简单，没什么好说的。但如果要在iOS设备上下载StrongVPN客户端，则需要先获取一个海外Apple ID账号。关于如何获取海外Apple ID账号，请参考：<a href="https://github.com/chinavpns/chinavpns.github.io#%E8%8B%B9%E6%9E%9Cios%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDexpressvpn%E5%AE%A2%E6%88%B7%E7%AB%AF">VPN iOS APP下载教程</a>。
+**小提示**：在Windows、Mac和Android等设备上下载安装StrongVPN非常简单，没什么好说的。但如果要在iOS设备上下载StrongVPN客户端，则需要先获取一个海外Apple ID账号。更多详情请参考：<a href="https://github.com/chinavpns/chinavpns.github.io#%E8%8B%B9%E6%9E%9Cios%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BDexpressvpn%E5%AE%A2%E6%88%B7%E7%AB%AF">VPN iOS APP下载教程</a>。
 
 ![如何下载StrongVPN APP客户端](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN-4.png)
 
