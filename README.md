@@ -419,7 +419,7 @@ Surfshark成立于2018年，虽然在VPN领域算是个"新人"，但一上线�
 
 如果你想使用ChatGPT，但还不清楚如何订阅ChatGPT Plus会员，请参考：<a href="https://github.com/chinavpns/chatgpt-plus">ChatGPT Plus订阅教程</a>！
 
-通过使用中国VPN，你可以重新接入这个真正完整的互联网世界。无论是查资料、看视频、工作学习，还是网上购物，都能有更多选择，体验也会更好。当然，选大陆VPN的时候一定要挑靠谱的服务商，比如ExpressVPN、StrongVPN、PureVPN这些知名品牌，这样才能保证翻墙既稳定又安全。别忘了，翻墙不仅仅是为了娱乐，更是为了信息自由和拓宽视野，在这个信息爆炸的时代，这一点其实特别重要。
+通过使用中国VPN，你可以重新接入这个真正完整的互联网世界。无论是查资料、看视频、工作学习，还是网上购物，都能有更多选择，体验也会更好。当然，选大陆VPN的时候一定要挑靠谱的服务商，比如<a href="https://github.com/chinavpns/expressvpn">ExpressVPN</a>、<a href="https://github.com/chinavpns/strongvpn">StrongVPN</a>、<a href="https://github.com/chinavpns/purevpn">PureVPN</a>这些知名品牌，这样才能保证翻墙既稳定又安全。别忘了，翻墙不仅仅是为了娱乐，更是为了信息自由和拓宽视野，在这个信息爆炸的时代，这一点其实特别重要。
 
 ## 如何挑选最好用的中国大陆VPN？
 
