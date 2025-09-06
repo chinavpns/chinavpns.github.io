@@ -75,7 +75,7 @@ OK，以上三款就是目前在中国大陆最好用的VPN软件。它们在翻
 
 下面便是我们在中国大陆经过长达数年的实地测试后，从上百款VPN中筛选出来的这份2025年最新中国VPN排行榜。我们的中国VPN推荐榜会根据实际使用情况定期更新，毕竟在这场猫鼠游戏中，没有任何一款VPN能保证永远提供最好用的翻墙服务。此外，本文推荐的大陆VPN都提供至少30天的退款保证，如果你发现某款VPN在你的网络环境下不好用，完全可以联系在线客服申请全额退款。
 
-### 中国VPN推荐（一）：<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN - 翻墙稳定，速度最快，免费试用30天</a>
+### 中国VPN推荐（一）：<a href="https://wallvpn.com/go/expressvpn/">ExpressVPN - 翻墙稳定，速度最快，3.49美金/月</a>
 
 ![ExpressVPN Banner：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E5%AE%98%E7%BD%91.png)
 
