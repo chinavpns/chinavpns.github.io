@@ -97,7 +97,7 @@ ExpressVPN的客户端软件设计非常人性化，支持Windows、MacOS、iOS�
 
 在价格方面，ExpressVPN比其他国内VPN软件要贵一点点，其月付套餐为12.95美元。不过，目前ExpressVPN推出了特别限时优惠活动：**现在订购两年套餐可额外获赠4个月，每月仅需3.49美元；订购一年套餐则额外获赠4个月，每月仅需6.25美元**。更重要的是，ExpressVPN提供30天无条件退款保证，这意味着你可以完全无风险地试用一个月。我建议所有想在中国使用VPN的朋友都先试用ExpressVPN，如果不满意，可以随时申请退款。
 
-![ExpressVPN价格：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E7%9A%84%E4%BB%B7%E6%A0%BC.jpg)
+![ExpressVPN价格：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
 
 总的来说，如果你对VPN的翻墙稳定性和速度有较高要求，那么ExpressVPN绝对是在中国使用VPN的最佳选择。特别是对于那些需要长期稳定翻墙的用户，比如从事国际贸易或国际金融，以及经常需要访问国外网站的朋友来说，ExpressVPN几乎是唯一能让你省心的选择。
 
