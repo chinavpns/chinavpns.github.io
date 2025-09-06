@@ -38,7 +38,7 @@ OK，以上三款就是目前在中国大陆最好用的VPN软件。它们在翻
 <h3 id="2-2025年最好用的中国vpn排行榜">2. <a href="#2025年最好用的中国vpn排行榜">2025年最好用的中国VPN排行榜</a></h3>
 <blockquote>
 <h4 id="1-中国vpn推荐一expressvpn---翻墙稳定速度最快349美金月">1. <a href="#中国vpn推荐一expressvpn---翻墙稳定速度最快349美金月">ExpressVPN：翻墙最稳定，速度也最快，3.49美金/月</a></h4>
-<h4 id="2-中国vpn推荐二strongvpn---老牌vpn397美金月支付支付宝付款">2. <a href="#中国vpn推荐二strongvpn---老牌vpn397美金月支付支付宝付款">StrongVPN：老牌VPN，3.97美金/月，支付支付宝付款</a></h4>
+<h4 id="2-中国vpn推荐二strongvpn---老牌vpn397美金月支付宝付款">2. <a href="#中国vpn推荐二strongvpn---老牌vpn397美金月支付支付宝付款">StrongVPN：老牌VPN，3.97美金/月，支付支付宝付款</a></h4>
 <h4 id="3-中国vpn推荐三purevpn---安全好用价格便宜211美金月">3. <a href="#中国vpn推荐三purevpn---安全好用价格便宜211美金月">PureVPN：安全好用，价格便宜，2.11美金/月</a></h4>
 </blockquote>
 <h3 id="3-2025年值得尝试的国内vpn推荐">3. <a href="#2025年值得尝试的国内vpn推荐">2025年值得尝试的国内VPN推荐</a></h3>
@@ -182,7 +182,7 @@ OK，按照以上步骤操作后，你已经成功购买、下载并安装了Exp
 
 ****
 
-### 中国VPN推荐（二）：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 老牌VPN，3.97美金/月，支付支付宝付款</a>
+### 中国VPN推荐（二）：<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN - 老牌VPN，3.97美金/月，支付宝付款</a>
 
 ![StrongVPN Banner：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/StrongVPN%20Banner.jpg)
 
