@@ -95,7 +95,7 @@ ExpressVPN的客户端软件设计非常人性化，支持Windows、MacOS、iOS�
 
 在客户服务方面，ExpressVPN提供24/7在线客服支持，虽然客服主要使用英文交流，但响应速度很快，通常几分钟内就能得到回复。我遇到连接问题时联系过客服多次，他们都能提供专业的解决方案。尤其是在GFW升级导致连接不稳定时，客服会第一时间提供备用服务器地址和连接方法。ExpressVPN还有一个详细的知识库，里面有专门针对中国用户的指导，包括如何在不同网络环境下优化连接等实用技巧。
 
-在价格方面，ExpressVPN比其他国内VPN软件要贵一点点，其月付套餐为12.95美元。不过，目前ExpressVPN推出了特别限时优惠活动：**现在订购两年套餐可额外获赠4个月，每月仅需3.49美元；订购一年套餐则额外获赠4个月，每月仅需6.25美元**。更重要的是，ExpressVPN提供30天无条件退款保证，这意味着你可以完全无风险地试用一个月。我建议所有想在中国使用VPN的朋友都先试用ExpressVPN，如果不满意，可以随时申请退款。
+在价格方面，ExpressVPN比其他国内VPN软件要贵一点点，其月付套餐为12.95美元。不过，目前ExpressVPN推出了特别限时优惠活动：**现在订购两年套餐可额外获赠4个月，每月仅需3.49美元**。更重要的是，ExpressVPN提供30天无条件退款保证，这意味着你可以完全无风险地试用一个月。我建议所有想在中国使用VPN的朋友都先试用ExpressVPN，如果不满意，可以随时申请退款。
 
 ![ExpressVPN价格：中国VPN推荐，最好用的VPN排行](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
 
@@ -113,13 +113,13 @@ ExpressVPN是一款成熟且易用的VPN，无论是购买账号，还是下载�
 
 * ExpressVPN官方网站：<a href="https://wallvpn.com/go/expressvpn/">www.expressvpn.com</a>
 
-![第一步：点击我们提供的优惠链接进入ExpressVPN官网](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/main/image/%E6%9C%80%E5%A5%BD%E7%94%A8%E7%9A%84%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90%E5%92%8C%E6%8E%92%E8%A1%8C-1.jpg)
+![第一步：点击我们提供的优惠链接进入ExpressVPN官网](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E5%AE%98%E7%BD%91.png)
 
 #### 第二步：选择适合你的付费套餐，比如“2年+4个月”套餐。
 
 ExpressVPN提供三种订阅时长：1个月、1年和2年。通常来说，2年套餐的性价比最高，不仅单月费用更低，还额外赠送4个月的免费使用期，折算下来每月价格更加实惠。你可以根据自身需求选择适合的套餐，但如果计划长期使用，2年套餐无疑是最佳选择。同时，所有套餐均享有ExpressVPN提供的30天无理由退款保证，让你可以无风险地体验其服务。
 
-![第二步：选择适合你的付费套餐，比如“2年+4个月”套餐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E7%9A%84%E4%BB%B7%E6%A0%BC.jpg)
+![第二步：选择适合你的付费套餐，比如“2年+4个月”套餐](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
 
 #### 第三步：输入电子邮箱注册，并按照系统提示完成支付。
 
