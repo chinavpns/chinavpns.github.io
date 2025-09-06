@@ -195,9 +195,9 @@ ExpressVPN成立于2009年，总部位于英属维尔京群岛，是全球顶级
 
 ![科学上网指南，购买ExpressVPN帐号第一步：打开ExpressVPN官网，并点击"Get ExpressVPN"按钮。](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E5%AE%98%E7%BD%91.png)
 
-第二步：选择一个付费套餐，并点击"Get Special Deal"按钮。
+第二步：选择Basic套餐，并点击"Get Basic"按钮。
 
-![科学上网指南，购买ExpressVPN帐号第二步：选择一个付费套餐，并点击"Get Special Deal"按钮。](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
+![科学上网指南，购买ExpressVPN帐号第二步：选择Basic套餐，并点击"Get Basic"按钮。](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/ExpressVPN%E4%BB%B7%E6%A0%BC.png)
 
 第三步：输入电子邮箱，并选择信用卡或者PayPal进行支付。
 
@@ -658,5 +658,6 @@ Tor（洋葱路由）是以匿名性著称的翻墙工具。它通过将你的�
 其次，请仅将本文推荐的翻墙VPN用于日常工作、学习和娱乐，切勿浏览和传播敏感信息，包括黄赌毒，以及与政治、经济、文化、宗教等相关的敏感内容，以免给自己带来不必要的麻烦。
 
 最后，我们建议大家定期更新翻墙VPN的客户端和服务器列表，以享受最佳的翻墙体验。随着GFW的不断升级，VPN服务商也在持续升级他们的加密技术和服务器网络。确保你的翻墙软件及时更新到最新版本，这样可以避免因版本落后导致的连接失败或速度下降问题，从而获得最佳的翻墙体验。
+
 
 
