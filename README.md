@@ -1,6 +1,6 @@
 # <p align="center">中国VPN推荐：2025年中国大陆最好用的VPN排行！</p>
 
-<p align="center">最近更新于：2025年9月6日</p>
+<p align="center">最近更新于：2025年9月18日</p>
 
 ![中国VPN推荐：2025年中国大陆最好用的VPN排行！](https://raw.githubusercontent.com/chinavpns/chinavpns.github.io/refs/heads/main/image/%E4%B8%AD%E5%9B%BDVPN%E6%8E%A8%E8%8D%90.png)
 
